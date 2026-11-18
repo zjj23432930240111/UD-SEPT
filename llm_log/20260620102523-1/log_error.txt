@@ -1,0 +1,10 @@
+20260620102523
+2026-06-20 10:25:54.091 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:571 - [ID 1] 7.3.2.1 Agent CombatGroup7: unit of tag 4297326593 not found
+2026-06-20 10:25:54.091 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:572 - [ID 1]         relative team = Adept-1 [4297326593, 4300210177]
+2026-06-20 10:25:54.091 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:574 - [ID 1] 7.3.4 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.Effect_AdeptPhaseShift_minimap: 547>, arguments=[[<Queued.now: 0>], [52.0, 32.0]])
+2026-06-20 10:27:56.691 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 10:27:56.694 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 10:32:42.648 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 10:32:42.649 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 10:35:15.486 | ERROR    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:72 - [ID 1] CombatGroup7 AdeptPhase-1 cannot find unit Neutral.MineralField750 0x1013c000a
+2026-06-20 10:35:15.531 | ERROR    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:72 - [ID 1] CombatGroup7 AdeptPhase-1 cannot find unit Neutral.MineralField750 0x1013c000a

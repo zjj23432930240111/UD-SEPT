@@ -1,0 +1,1964 @@
+{
+  "completed": {
+    "1_2_raw_0": {
+      "timestamp": 1781936181.503053,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 0
+    },
+    "1_2_raw_2": {
+      "timestamp": 1781936931.864806,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 2
+    },
+    "1_2_raw_3": {
+      "timestamp": 1781937962.2424946,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 3
+    },
+    "1_2_raw_4": {
+      "timestamp": 1781938972.51952,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 4
+    },
+    "1_2_raw_5": {
+      "timestamp": 1781939640.710644,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 5
+    },
+    "1_2_raw_6": {
+      "timestamp": 1781940301.5096533,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 6
+    },
+    "1_2_raw_7": {
+      "timestamp": 1781940747.391311,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 7
+    },
+    "1_2_raw_8": {
+      "timestamp": 1781941122.971178,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 8
+    },
+    "1_2_raw_9": {
+      "timestamp": 1781941817.1119196,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 9
+    },
+    "1_2_raw_10": {
+      "timestamp": 1781941855.7320611,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 10
+    },
+    "1_2_raw_11": {
+      "timestamp": 1781942765.8180194,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 11
+    },
+    "1_2_raw_12": {
+      "timestamp": 1781942933.6501267,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 12
+    },
+    "1_2_raw_13": {
+      "timestamp": 1781943579.7200096,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 13
+    },
+    "1_2_raw_14": {
+      "timestamp": 1781944149.3853877,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 14
+    },
+    "1_2_raw_15": {
+      "timestamp": 1781944361.1654737,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 15
+    },
+    "1_2_raw_17": {
+      "timestamp": 1781945159.811905,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 17
+    },
+    "1_2_raw_16": {
+      "timestamp": 1781945361.906516,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 16
+    },
+    "1_2_raw_19": {
+      "timestamp": 1781946181.1650093,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 19
+    },
+    "1_2_raw_18": {
+      "timestamp": 1781946483.6797752,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 18
+    },
+    "1_2_raw_20": {
+      "timestamp": 1781947176.8367422,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 20
+    },
+    "1_2_raw_21": {
+      "timestamp": 1781947359.0990002,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 21
+    },
+    "1_2_raw_23": {
+      "timestamp": 1781948183.8905225,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 23
+    },
+    "1_2_raw_22": {
+      "timestamp": 1781948913.1093338,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 22
+    },
+    "1_2_raw_24": {
+      "timestamp": 1781949000.5516646,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 24
+    },
+    "1_2_raw_25": {
+      "timestamp": 1781949581.3035254,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 25
+    },
+    "1_2_raw_26": {
+      "timestamp": 1781950280.794814,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 26
+    },
+    "1_2_raw_27": {
+      "timestamp": 1781950537.6964805,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 27
+    },
+    "1_2_raw_29": {
+      "timestamp": 1781951462.5970643,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 29
+    },
+    "1_2_raw_28": {
+      "timestamp": 1781951467.733202,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 28
+    },
+    "1_2_raw_31": {
+      "timestamp": 1781952534.4670465,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 31
+    },
+    "1_2_raw_30": {
+      "timestamp": 1781952702.5652387,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 30
+    },
+    "1_2_raw_33": {
+      "timestamp": 1781953344.8799658,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 33
+    },
+    "1_2_raw_32": {
+      "timestamp": 1781953603.3951404,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 32
+    },
+    "1_2_raw_34": {
+      "timestamp": 1781954370.11214,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 34
+    },
+    "1_2_raw_35": {
+      "timestamp": 1781954884.55392,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 35
+    },
+    "1_2_raw_36": {
+      "timestamp": 1781955091.7532923,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 36
+    },
+    "1_2_raw_37": {
+      "timestamp": 1781955619.397345,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 37
+    },
+    "1_2_raw_38": {
+      "timestamp": 1781955904.7187886,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 38
+    },
+    "1_2_raw_39": {
+      "timestamp": 1781956589.6919413,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 39
+    },
+    "1_2_raw_40": {
+      "timestamp": 1781956899.6939645,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 40
+    },
+    "1_2_raw_41": {
+      "timestamp": 1781957598.9856353,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 41
+    },
+    "1_2_raw_42": {
+      "timestamp": 1781957876.7445648,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 42
+    },
+    "1_2_raw_43": {
+      "timestamp": 1781958465.1218104,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 43
+    },
+    "1_2_raw_45": {
+      "timestamp": 1781959228.292636,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 45
+    },
+    "1_2_raw_44": {
+      "timestamp": 1781959258.8526678,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 44
+    },
+    "1_2_raw_46": {
+      "timestamp": 1781960383.2275279,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 46
+    },
+    "1_2_raw_47": {
+      "timestamp": 1781960843.1962748,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 47
+    },
+    "1_2_raw_48": {
+      "timestamp": 1781961529.0773773,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 48
+    },
+    "1_2_raw_49": {
+      "timestamp": 1781961724.832596,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 49
+    },
+    "1_2_sc_0": {
+      "timestamp": 1781964520.5260034,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 0
+    },
+    "1_2_sc_2": {
+      "timestamp": 1781967084.9437516,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 2
+    },
+    "1_2_sc_3": {
+      "timestamp": 1781967287.2988248,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 3
+    },
+    "1_2_sc_5": {
+      "timestamp": 1781970163.5035338,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 5
+    },
+    "1_2_sc_6": {
+      "timestamp": 1781972558.2353034,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 6
+    },
+    "1_2_sc_7": {
+      "timestamp": 1781972598.2681074,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 7
+    },
+    "1_2_sc_8": {
+      "timestamp": 1781974603.5164373,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 8
+    },
+    "1_2_sc_9": {
+      "timestamp": 1781975029.1837564,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 9
+    },
+    "1_2_sc_10": {
+      "timestamp": 1781977069.2845821,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 10
+    },
+    "1_2_sc_11": {
+      "timestamp": 1781977818.8508968,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 11
+    },
+    "1_2_sc_12": {
+      "timestamp": 1781979719.9378705,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 12
+    },
+    "1_2_sc_13": {
+      "timestamp": 1781980451.584286,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 13
+    },
+    "1_2_sc_14": {
+      "timestamp": 1781981833.1313612,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 14
+    },
+    "1_2_sc_15": {
+      "timestamp": 1781982458.6932278,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 15
+    },
+    "1_2_sc_16": {
+      "timestamp": 1781983781.5164418,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 16
+    },
+    "1_2_sc_17": {
+      "timestamp": 1781984221.5140746,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 17
+    },
+    "1_2_sc_18": {
+      "timestamp": 1781985863.8264873,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 18
+    },
+    "1_2_sc_19": {
+      "timestamp": 1781986229.7668388,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 19
+    },
+    "1_2_sc_20": {
+      "timestamp": 1781987383.073625,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 20
+    },
+    "1_2_sc_21": {
+      "timestamp": 1781988746.714146,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 21
+    },
+    "1_2_sc_22": {
+      "timestamp": 1781989585.3751855,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 22
+    },
+    "1_2_sc_23": {
+      "timestamp": 1781990492.194389,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 23
+    },
+    "1_2_sc_24": {
+      "timestamp": 1781990965.8931637,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 24
+    },
+    "1_2_sc_35": {
+      "timestamp": 1782007616.276605,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 35
+    },
+    "1_2_sc_36": {
+      "timestamp": 1782008271.25732,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 36
+    },
+    "1_2_sc_37": {
+      "timestamp": 1782009364.8307347,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 37
+    },
+    "1_2_sc_38": {
+      "timestamp": 1782010273.1017795,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 38
+    },
+    "1_2_sc_39": {
+      "timestamp": 1782011722.810846,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 39
+    },
+    "1_2_sc_40": {
+      "timestamp": 1782012959.7998903,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 40
+    },
+    "1_2_sc_41": {
+      "timestamp": 1782013552.455858,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 41
+    },
+    "1_2_sc_42": {
+      "timestamp": 1782015325.5775077,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 42
+    },
+    "1_2_raw_1": {
+      "timestamp": 1782016875.2439892,
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 1
+    },
+    "1_2_sc_4": {
+      "timestamp": 1782019259.5295763,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 4
+    },
+    "1_2_sc_25": {
+      "timestamp": 1782021857.3993683,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 25
+    },
+    "1_2_sc_26": {
+      "timestamp": 1782024017.7683673,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 26
+    },
+    "1_2_sc_27": {
+      "timestamp": 1782024508.5860155,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 27
+    },
+    "1_2_sc_29": {
+      "timestamp": 1782026896.960106,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 29
+    },
+    "1_2_sc_28": {
+      "timestamp": 1782028006.983149,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 28
+    },
+    "1_2_sc_30": {
+      "timestamp": 1782029771.3897605,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 30
+    },
+    "1_2_sc_31": {
+      "timestamp": 1782031185.428664,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 31
+    },
+    "1_2_sc_32": {
+      "timestamp": 1782032379.8342257,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 32
+    },
+    "1_2_sc_33": {
+      "timestamp": 1782033794.5541403,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 33
+    },
+    "1_2_sc_34": {
+      "timestamp": 1782035648.3613658,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 34
+    },
+    "1_2_sc_43": {
+      "timestamp": 1782036905.0637803,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 43
+    },
+    "1_2_sc_44": {
+      "timestamp": 1782038566.0858276,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 44
+    },
+    "1_2_sc_45": {
+      "timestamp": 1782039963.2263324,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 45
+    },
+    "1_2_sc_46": {
+      "timestamp": 1782041365.4066355,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 46
+    },
+    "1_2_sc_47": {
+      "timestamp": 1782042738.6853669,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 47
+    },
+    "1_2_sc_48": {
+      "timestamp": 1782044168.7732468,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 48
+    },
+    "1_2_sc_49": {
+      "timestamp": 1782045454.3534198,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 49
+    },
+    "1_2_uaaf_0": {
+      "timestamp": 1782049804.8930717,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 0
+    },
+    "1_2_uaaf_1": {
+      "timestamp": 1782053532.080484,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 1
+    },
+    "1_2_uaaf_2": {
+      "timestamp": 1782054859.711647,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 2
+    },
+    "1_2_uaaf_3": {
+      "timestamp": 1782056990.166995,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 3
+    },
+    "1_2_uaaf_4": {
+      "timestamp": 1782058991.6809928,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 4
+    },
+    "1_2_uaaf_5": {
+      "timestamp": 1782093278.2133155,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 5
+    },
+    "1_2_uaaf_6": {
+      "timestamp": 1782096499.8021727,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 6
+    },
+    "1_2_uaaf_7": {
+      "timestamp": 1782099618.3528278,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 7
+    },
+    "1_2_uaaf_8": {
+      "timestamp": 1782099895.5961933,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 8
+    },
+    "1_2_uaaf_9": {
+      "timestamp": 1782102560.3375661,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 9
+    },
+    "1_2_uaaf_10": {
+      "timestamp": 1782104336.5712054,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 10
+    },
+    "1_2_uaaf_11": {
+      "timestamp": 1782106848.5666902,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 11
+    },
+    "1_2_uaaf_12": {
+      "timestamp": 1782107266.1203766,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 12
+    },
+    "1_2_uaaf_13": {
+      "timestamp": 1782110801.2352455,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 13
+    },
+    "1_2_uaaf_14": {
+      "timestamp": 1782111864.9763362,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 14
+    },
+    "1_2_uaaf_15": {
+      "timestamp": 1782115275.8835123,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 15
+    },
+    "1_2_uaaf_16": {
+      "timestamp": 1782116536.3977244,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 16
+    },
+    "1_2_uaaf_17": {
+      "timestamp": 1782119829.4656026,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 17
+    },
+    "1_2_uaaf_18": {
+      "timestamp": 1782121401.2848427,
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 18
+    },
+    "2_2_raw_0": {
+      "timestamp": 1782123046.789986,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 0
+    },
+    "1_2_sc_1": {
+      "timestamp": 1782126154.9134572,
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 1
+    },
+    "2_2_raw_1": {
+      "timestamp": 1782126903.0168169,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 1
+    },
+    "2_2_raw_2": {
+      "timestamp": 1782127505.3419814,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 2
+    },
+    "2_2_raw_3": {
+      "timestamp": 1782128151.5311856,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 3
+    },
+    "2_2_raw_4": {
+      "timestamp": 1782128770.4688864,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 4
+    },
+    "2_2_raw_5": {
+      "timestamp": 1782129311.638738,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 5
+    },
+    "2_2_raw_6": {
+      "timestamp": 1782129957.6349733,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 6
+    },
+    "2_2_raw_7": {
+      "timestamp": 1782130170.8703308,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 7
+    },
+    "2_2_raw_9": {
+      "timestamp": 1782130979.7016912,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 9
+    },
+    "2_2_raw_8": {
+      "timestamp": 1782131404.6786644,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 8
+    },
+    "2_2_raw_10": {
+      "timestamp": 1782131882.0099933,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 10
+    },
+    "2_2_raw_11": {
+      "timestamp": 1782132314.1625125,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 11
+    },
+    "2_2_raw_12": {
+      "timestamp": 1782132645.5635743,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 12
+    },
+    "2_2_raw_13": {
+      "timestamp": 1782132906.8400533,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 13
+    },
+    "2_2_raw_14": {
+      "timestamp": 1782133137.9684365,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 14
+    },
+    "2_2_raw_15": {
+      "timestamp": 1782133375.8115413,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 15
+    },
+    "2_2_raw_16": {
+      "timestamp": 1782133697.8253803,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 16
+    },
+    "2_2_raw_17": {
+      "timestamp": 1782133815.9795485,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 17
+    },
+    "2_2_raw_19": {
+      "timestamp": 1782134217.7197082,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 19
+    },
+    "2_2_raw_18": {
+      "timestamp": 1782134381.3662808,
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 18
+    },
+    "2_2_sc_1": {
+      "timestamp": 1782135872.339428,
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 1
+    },
+    "2_2_sc_0": {
+      "timestamp": 1782135885.0043328,
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 0
+    },
+    "2_2_sc_3": {
+      "timestamp": 1782137492.6108735,
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 3
+    },
+    "2_2_sc_2": {
+      "timestamp": 1782138750.032024,
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 2
+    },
+    "2_2_sc_4": {
+      "timestamp": 1782138997.4992595,
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 4
+    },
+    "2_2_sc_6": {
+      "timestamp": 1782141730.5845556,
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 6
+    },
+    "2_2_sc_5": {
+      "timestamp": 1782142422.476658,
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 5
+    }
+  },
+  "failed": {
+    "1_2_raw_1": {
+      "timestamp": 1781938613.1258974,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 1
+    },
+    "1_2_sc_1": {
+      "timestamp": 1782123468.315968,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 1
+    },
+    "1_2_sc_4": {
+      "timestamp": 1781970084.9890387,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 4
+    },
+    "1_2_sc_25": {
+      "timestamp": 1781993492.2246935,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 25
+    },
+    "1_2_sc_26": {
+      "timestamp": 1781993965.9352407,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 26
+    },
+    "1_2_sc_27": {
+      "timestamp": 1781996492.2626185,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 27
+    },
+    "1_2_sc_28": {
+      "timestamp": 1781996965.9635367,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 28
+    },
+    "1_2_sc_29": {
+      "timestamp": 1781999492.28401,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 29
+    },
+    "1_2_sc_30": {
+      "timestamp": 1781999965.9982064,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 30
+    },
+    "1_2_sc_31": {
+      "timestamp": 1782002492.3153303,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 31
+    },
+    "1_2_sc_32": {
+      "timestamp": 1782002966.0151634,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 32
+    },
+    "1_2_sc_33": {
+      "timestamp": 1782005492.370824,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 33
+    },
+    "1_2_sc_34": {
+      "timestamp": 1782005966.054394,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 34
+    },
+    "1_2_uaaf_6": {
+      "timestamp": 1782060090.7600465,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 6
+    },
+    "1_2_uaaf_7": {
+      "timestamp": 1782061190.228352,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 7
+    },
+    "1_2_uaaf_8": {
+      "timestamp": 1782061481.6084008,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 8
+    },
+    "1_2_uaaf_5": {
+      "timestamp": 1782062390.1945121,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 5
+    },
+    "1_2_uaaf_9": {
+      "timestamp": 1782062579.7935574,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 9
+    },
+    "1_2_uaaf_10": {
+      "timestamp": 1782063488.4344928,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 10
+    },
+    "1_2_uaaf_11": {
+      "timestamp": 1782063678.8975723,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 11
+    },
+    "1_2_uaaf_12": {
+      "timestamp": 1782064587.247503,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 12
+    },
+    "1_2_uaaf_13": {
+      "timestamp": 1782064777.232224,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 13
+    },
+    "1_2_uaaf_14": {
+      "timestamp": 1782065685.4171898,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 14
+    },
+    "1_2_uaaf_15": {
+      "timestamp": 1782065875.8255193,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 15
+    },
+    "1_2_uaaf_17": {
+      "timestamp": 1782066645.3986685,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 17
+    },
+    "1_2_uaaf_16": {
+      "timestamp": 1782066784.1651282,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 16
+    },
+    "1_2_uaaf_18": {
+      "timestamp": 1782067744.7260091,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 18
+    },
+    "1_2_uaaf_19": {
+      "timestamp": 1782129623.1330013,
+      "reason": "subprocess_failed",
+      "task": 1,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 19
+    },
+    "2_2_raw_0": {
+      "timestamp": 1782068844.1086261,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 0
+    },
+    "2_2_raw_1": {
+      "timestamp": 1782123479.9191208,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 1
+    },
+    "2_2_raw_2": {
+      "timestamp": 1782123490.5900538,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 2
+    },
+    "2_2_raw_3": {
+      "timestamp": 1782123501.5869024,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 3
+    },
+    "2_2_raw_4": {
+      "timestamp": 1782123512.6776526,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 4
+    },
+    "2_2_raw_5": {
+      "timestamp": 1782123524.1259606,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 5
+    },
+    "2_2_raw_6": {
+      "timestamp": 1782123535.1384544,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 6
+    },
+    "2_2_raw_7": {
+      "timestamp": 1782123546.2238948,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 7
+    },
+    "2_2_raw_8": {
+      "timestamp": 1782123557.7020087,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 8
+    },
+    "2_2_raw_9": {
+      "timestamp": 1782123568.192889,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 9
+    },
+    "2_2_raw_10": {
+      "timestamp": 1782123579.0398388,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 10
+    },
+    "2_2_raw_11": {
+      "timestamp": 1782123590.4951403,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 11
+    },
+    "2_2_raw_12": {
+      "timestamp": 1782123601.0551572,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 12
+    },
+    "2_2_raw_13": {
+      "timestamp": 1782123611.8560457,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 13
+    },
+    "2_2_raw_14": {
+      "timestamp": 1782123622.4691684,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 14
+    },
+    "2_2_raw_15": {
+      "timestamp": 1782123633.4831722,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 15
+    },
+    "2_2_raw_16": {
+      "timestamp": 1782123644.196079,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 16
+    },
+    "2_2_raw_17": {
+      "timestamp": 1782123655.5439715,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 17
+    },
+    "2_2_raw_18": {
+      "timestamp": 1782123666.878419,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 18
+    },
+    "2_2_raw_19": {
+      "timestamp": 1782123678.1740603,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 19
+    },
+    "2_2_sc_0": {
+      "timestamp": 1782123689.77725,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 0
+    },
+    "2_2_sc_1": {
+      "timestamp": 1782123701.0172431,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 1
+    },
+    "2_2_sc_2": {
+      "timestamp": 1782080935.78666,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 2
+    },
+    "2_2_sc_3": {
+      "timestamp": 1782081073.6715991,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 3
+    },
+    "2_2_sc_4": {
+      "timestamp": 1782082035.4116852,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 4
+    },
+    "2_2_sc_5": {
+      "timestamp": 1782082173.2202806,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 5
+    },
+    "2_2_sc_6": {
+      "timestamp": 1782083134.2966049,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 6
+    },
+    "2_2_sc_7": {
+      "timestamp": 1782142826.3041594,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 7
+    },
+    "2_2_sc_8": {
+      "timestamp": 1782143517.9951808,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 8
+    },
+    "2_2_sc_9": {
+      "timestamp": 1782143921.9627392,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 9
+    },
+    "2_2_sc_10": {
+      "timestamp": 1782144613.1162364,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 10
+    },
+    "2_2_sc_11": {
+      "timestamp": 1782145016.7604535,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 11
+    },
+    "2_2_sc_12": {
+      "timestamp": 1782145707.668802,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 12
+    },
+    "2_2_sc_13": {
+      "timestamp": 1782146111.070043,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 13
+    },
+    "2_2_sc_14": {
+      "timestamp": 1782146802.2530937,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 14
+    },
+    "2_2_sc_15": {
+      "timestamp": 1782147206.2131763,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 15
+    },
+    "2_2_sc_16": {
+      "timestamp": 1782147897.0460222,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 16
+    },
+    "2_2_sc_17": {
+      "timestamp": 1782148300.8208287,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 17
+    },
+    "2_2_sc_18": {
+      "timestamp": 1782148992.3121493,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 18
+    },
+    "2_2_sc_19": {
+      "timestamp": 1782149396.6197448,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 19
+    },
+    "2_2_uaaf_1": {
+      "timestamp": 1782150492.799673,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 1
+    },
+    "2_2_uaaf_2": {
+      "timestamp": 1782151184.8628068,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 2
+    },
+    "2_2_uaaf_0": {
+      "timestamp": 1782150088.2018578,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 0
+    },
+    "2_2_uaaf_3": {
+      "timestamp": 1782151589.143657,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 3
+    },
+    "2_2_uaaf_4": {
+      "timestamp": 1782152281.175365,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 4
+    },
+    "2_2_uaaf_5": {
+      "timestamp": 1782152685.635166,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 5
+    },
+    "2_2_uaaf_6": {
+      "timestamp": 1782153377.5036428,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 6
+    },
+    "2_2_uaaf_7": {
+      "timestamp": 1782153781.957245,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 7
+    },
+    "2_2_uaaf_8": {
+      "timestamp": 1782154473.520282,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 8
+    },
+    "2_2_uaaf_9": {
+      "timestamp": 1782154877.746536,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 9
+    },
+    "2_2_uaaf_10": {
+      "timestamp": 1782155569.4783778,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 10
+    },
+    "2_2_uaaf_11": {
+      "timestamp": 1782155973.8363738,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 11
+    },
+    "2_2_uaaf_12": {
+      "timestamp": 1782156664.8519752,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 12
+    },
+    "2_2_uaaf_13": {
+      "timestamp": 1782157068.6679797,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 13
+    },
+    "2_2_uaaf_14": {
+      "timestamp": 1782157760.1570706,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 14
+    },
+    "2_2_uaaf_15": {
+      "timestamp": 1782158163.984123,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 15
+    },
+    "2_2_uaaf_16": {
+      "timestamp": 1782158855.300908,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 16
+    },
+    "2_2_uaaf_17": {
+      "timestamp": 1782159260.0476635,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 17
+    },
+    "2_2_uaaf_18": {
+      "timestamp": 1782159951.5358887,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 18
+    },
+    "2_2_uaaf_19": {
+      "timestamp": 1782160355.9748418,
+      "reason": "subprocess_failed",
+      "task": 2,
+      "level": 2,
+      "strategy": "uaaf",
+      "game_id": 19
+    },
+    "3_2_raw_0": {
+      "timestamp": 1782161047.1107013,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 0
+    },
+    "3_2_raw_1": {
+      "timestamp": 1782161451.7510302,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 1
+    },
+    "3_2_raw_2": {
+      "timestamp": 1782162143.0597346,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 2
+    },
+    "3_2_raw_3": {
+      "timestamp": 1782162547.6576188,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 3
+    },
+    "3_2_raw_4": {
+      "timestamp": 1782163239.4043524,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 4
+    },
+    "3_2_raw_5": {
+      "timestamp": 1782163644.0743382,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 5
+    },
+    "3_2_raw_6": {
+      "timestamp": 1782164335.1592574,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 6
+    },
+    "3_2_raw_7": {
+      "timestamp": 1782164739.932743,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 7
+    },
+    "3_2_raw_8": {
+      "timestamp": 1782165430.31829,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 8
+    },
+    "3_2_raw_9": {
+      "timestamp": 1782165834.9900687,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 9
+    },
+    "3_2_raw_10": {
+      "timestamp": 1782166525.119957,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 10
+    },
+    "3_2_raw_11": {
+      "timestamp": 1782166929.3137805,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 11
+    },
+    "3_2_raw_12": {
+      "timestamp": 1782167619.2668757,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 12
+    },
+    "3_2_raw_13": {
+      "timestamp": 1782168023.897909,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 13
+    },
+    "3_2_raw_14": {
+      "timestamp": 1782168714.039835,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 14
+    },
+    "3_2_raw_15": {
+      "timestamp": 1782169118.8166099,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 15
+    },
+    "3_2_raw_16": {
+      "timestamp": 1782169809.6459992,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 16
+    },
+    "3_2_raw_17": {
+      "timestamp": 1782170215.0507019,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 17
+    },
+    "3_2_raw_18": {
+      "timestamp": 1782170905.8757708,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 18
+    },
+    "3_2_raw_19": {
+      "timestamp": 1782171311.371728,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "raw",
+      "game_id": 19
+    },
+    "3_2_sc_0": {
+      "timestamp": 1782172001.1203945,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 0
+    },
+    "3_2_sc_1": {
+      "timestamp": 1782172406.8713005,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 1
+    },
+    "3_2_sc_2": {
+      "timestamp": 1782173097.2112715,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 2
+    },
+    "3_2_sc_3": {
+      "timestamp": 1782173502.8125653,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 3
+    },
+    "3_2_sc_4": {
+      "timestamp": 1782174192.946305,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 4
+    },
+    "3_2_sc_5": {
+      "timestamp": 1782174598.493275,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 5
+    },
+    "3_2_sc_7": {
+      "timestamp": 1782175241.0811038,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 7
+    },
+    "3_2_sc_8": {
+      "timestamp": 1782175245.5950592,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 8
+    },
+    "3_2_sc_6": {
+      "timestamp": 1782175288.097262,
+      "reason": "subprocess_failed",
+      "task": 3,
+      "level": 2,
+      "strategy": "sc",
+      "game_id": 6
+    }
+  }
+}

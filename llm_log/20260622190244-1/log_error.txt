@@ -1,0 +1,15 @@
+20260622190244
+2026-06-22 19:03:59.111 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:03:59.111 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:06:33.328 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:06:33.339 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:08:46.355 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:08:46.355 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:09:32.755 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:09:32.755 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:10:20.169 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:10:20.169 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:12:45.856 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:12:45.856 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:13:51.652 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 19:13:51.652 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error

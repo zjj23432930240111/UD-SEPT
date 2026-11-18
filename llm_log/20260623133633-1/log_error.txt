@@ -1,0 +1,48 @@
+20260623133633
+2026-06-23 13:38:45.836 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:38:45.839 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:40:01.554 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:40:01.567 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:40:48.095 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:40:48.096 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:41:35.753 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:41:35.756 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:42:25.160 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:42:25.166 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:43:18.707 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:43:18.708 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:43:18.710 | ERROR    | llm_pysc2.lib.deepseek_client:query:155 - [ID 1] CombatGroup8 Maximum retries reached. DeepSeek API is not responding.
+2026-06-23 13:45:27.535 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:45:27.535 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:48:40.329 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:48:40.329 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:49:14.178 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:571 - [ID 1] 7.3.2.1 Agent CombatGroup8: unit of tag 4299161601 not found
+2026-06-23 13:49:14.178 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:572 - [ID 1]         relative team = Phoenix-1 [4299161601, 4301258753, 4295229441]
+2026-06-23 13:49:14.179 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:574 - [ID 1] 7.3.4 Agent CombatGroup8: Func Call: FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [67, 20]])
+2026-06-23 13:49:15.257 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:571 - [ID 1] 7.3.2.1 Agent CombatGroup8: unit of tag 4299161601 not found
+2026-06-23 13:49:15.257 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:572 - [ID 1]         relative team = Phoenix-1 [4299161601, 4301258753, 4295229441]
+2026-06-23 13:49:15.258 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:574 - [ID 1] 7.3.4 Agent CombatGroup8: Func Call: FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.queued: 1>], [52.0, 32.0]])
+2026-06-23 13:52:04.999 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:52:05.000 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-23 13:55:22.285 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1351 - [ID 1] main_agent_func4: head unit of tag 4299161601 not found, unit_f is None
+2026-06-23 13:55:22.286 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1374 - [ID 1] main_agent_func4: Something wrong
+2026-06-23 13:55:22.286 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1375 - [ID 1]                   self.unit_selected_tag_list = [4299161601, 4295229441]
+2026-06-23 13:55:22.287 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1376 - [ID 1]                   len(self.unit_selected_tag_list) = 2
+2026-06-23 13:55:22.287 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1377 - [ID 1]                   self.temp_head_unit_tag = 4299161601
+2026-06-23 13:55:22.287 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1378 - [ID 1]                   self.temp_curr_unit_tag = 4295229441
+2026-06-23 13:55:22.288 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1379 - [ID 1]                   self.temp_head_unit = [        78          1         16          0        154          0
+        100         34          0        197          1          1
+         70         55          4          0          3          1
+          0          0          0          0          0          0
+          0          3          3        547        547 4299161601
+          0          0          0          0          1          1
+          0          0        547          0          0          0
+          0          0          0          0]
+2026-06-23 13:55:22.289 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1380 - [ID 1]                   self.temp_curr_unit = [        78          1         46          0        200          0
+        100         99          0        255          1          1
+         70         55          4          0          3          1
+          0          0          0          0          0          0
+          0          7          2          4        547 4295229441
+          0          0          0          0          1          1
+          0          0          0          0          0          0
+          0          0          0          0]

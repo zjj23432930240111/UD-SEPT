@@ -1,0 +1,21 @@
+20260625230044
+2026-06-25 23:07:03.654 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:07:03.654 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup1 Error calling DeepSeek API: CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:07:50.724 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:07:50.724 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup1 Error calling DeepSeek API: CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:10:11.875 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:10:11.876 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup1 Error calling DeepSeek API: CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:12:11.860 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:12:11.860 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup1 Error calling DeepSeek API: CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:15:18.010 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:15:18.010 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup1 Error calling DeepSeek API: CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:16:04.443 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:16:04.444 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup1 Error calling DeepSeek API: CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:21:54.534 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:21:54.535 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup1 Error calling DeepSeek API: CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:22:40.684 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:22:40.686 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup1 Error calling DeepSeek API: CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:23:28.588 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:23:28.588 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup1 Error calling DeepSeek API: CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:24:18.333 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup1 DeepSeek query runtime error
+2026-06-25 23:24:18.333 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup1 Error calling DeepSeek API: CombatGroup1 DeepSeek query runtime error

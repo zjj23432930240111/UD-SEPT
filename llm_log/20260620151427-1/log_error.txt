@@ -1,0 +1,43 @@
+20260620151427
+2026-06-20 15:17:36.157 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:17:36.158 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:21:34.957 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:21:34.957 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:22:21.509 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:22:21.509 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:23:09.326 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:23:09.326 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:23:58.819 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:23:58.819 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:25:29.878 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:25:29.878 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:26:35.745 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1351 - [ID 1] main_agent_func4: head unit of tag 4318035976 not found, unit_f is None
+2026-06-20 15:26:35.745 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1374 - [ID 1] main_agent_func4: Something wrong
+2026-06-20 15:26:35.745 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1375 - [ID 1]                   self.unit_selected_tag_list = [4318035976, 4300996609, 4295753730]
+2026-06-20 15:26:35.745 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1376 - [ID 1]                   len(self.unit_selected_tag_list) = 3
+2026-06-20 15:26:35.745 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1377 - [ID 1]                   self.temp_head_unit_tag = 4318035976
+2026-06-20 15:26:35.745 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1378 - [ID 1]                   self.temp_curr_unit_tag = 4295753730
+2026-06-20 15:26:35.750 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1379 - [ID 1]                   self.temp_head_unit = [       801          1         90         50          0          0
+        100        255        255          0          1          1
+         74         48          3          0          3          1
+          0          0          0          0          0          0
+          0          0          1        547          0 4318035976
+          0          0          0          0          1          1
+          0          0          0          0          0         86
+        160          0          0          0]
+2026-06-20 15:26:35.750 | ERROR    | llm_pysc2.agents.main_agent_funcs:main_agent_func4:1380 - [ID 1]                   self.temp_curr_unit = [       801          1         90         50          0          0
+        100        255        255          0          1          1
+         75         48          2          0          3          1
+          0          0          0          0          0          0
+          0          0          0          0          0 4295753730
+          0          0          0          0          0          1
+          0          0          0          0          0         88
+        160          0          0          0]
+2026-06-20 15:27:26.271 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:27:26.271 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:28:12.947 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:28:12.947 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:31:07.053 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:31:07.053 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:31:53.475 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-20 15:31:53.475 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error

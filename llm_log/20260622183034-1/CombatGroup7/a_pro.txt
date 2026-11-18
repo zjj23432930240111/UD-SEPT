@@ -1,0 +1,20 @@
+{"0": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"1": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"2": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"3": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"4": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>"}
+{"5": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>"}
+{"6": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x100340001)>\n\t\t<Move_Minimap([52, 32])>"}
+{"7": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Screen([110,30])>\n\t\t<Attack_Unit(0x100600001)>\n\t\t<Attack_Unit(0x100500001)>"}
+{"8": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x100500001)>\n\t\t<Attack_Unit(0x100600001)>\n\t\t<Move_Screen([90, 60])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Screen([90, 60])>"}
+{"9": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x100500001)>\n\t\t<Attack_Unit(0x100600001)>\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"10": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x100600001)>\n\t\t<Attack_Unit(0x1000c0001)>\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"11": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"12": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([80, 40])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"13": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Screen([55, 60])>"}
+{"14": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([75, 55])>"}
+{"15": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101300001)>\n\t\t<Move_Screen([90,30])>"}
+{"16": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101580001)>\n\t\t<Attack_Unit(0x1014c0001)>\n\t\t<Move_Screen([70,80])>"}
+{"17": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1000c0001)>\n\t\t<Attack_Unit(0x1014c0001)>\n\t\t<Move_Screen([70,80])>"}
+{"18": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101400001)>\n\t\t<Move_Screen([85,60])>"}
+{"19": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([100,30])>"}

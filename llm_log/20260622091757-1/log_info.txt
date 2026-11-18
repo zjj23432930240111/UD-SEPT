@@ -1,0 +1,270 @@
+20260622091757
+2026-06-22 09:17:57.950 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Airborne DefaultTranslatorA initialized
+2026-06-22 09:17:57.951 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] Airborne CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.951 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Airborne DefaultCommunicator initialized
+2026-06-22 09:17:57.952 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] Airborne deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.954 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent Airborne successfully initialized!
+2026-06-22 09:17:57.956 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Builder DefaultTranslatorA initialized
+2026-06-22 09:17:57.956 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] Builder CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.956 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Builder DefaultCommunicator initialized
+2026-06-22 09:17:57.956 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] Builder deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.957 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent Builder successfully initialized!
+2026-06-22 09:17:57.957 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Commander DefaultTranslatorA initialized
+2026-06-22 09:17:57.957 | INFO     | llm_pysc2.lib.llm_observation:__init__:794 - [ID 1] Commander CommanderTranslatorO initialized
+2026-06-22 09:17:57.958 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Commander DefaultCommunicator initialized
+2026-06-22 09:17:57.959 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] Commander deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.959 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent Commander successfully initialized!
+2026-06-22 09:17:57.959 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Developer DefaultTranslatorA initialized
+2026-06-22 09:17:57.959 | INFO     | llm_pysc2.lib.llm_observation:__init__:830 - [ID 1] Developer DeveloperTranslatorO initialized
+2026-06-22 09:17:57.959 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Developer DefaultCommunicator initialized
+2026-06-22 09:17:57.960 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] Developer deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.960 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent Developer successfully initialized!
+2026-06-22 09:17:57.960 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] Defender DefaultTranslatorA initialized
+2026-06-22 09:17:57.961 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] Defender CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.961 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] Defender DefaultCommunicator initialized
+2026-06-22 09:17:57.961 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] Defender deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.961 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent Defender successfully initialized!
+2026-06-22 09:17:57.962 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup0 DefaultTranslatorA initialized
+2026-06-22 09:17:57.962 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup0 CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.962 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup0 DefaultCommunicator initialized
+2026-06-22 09:17:57.962 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup0 deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.964 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup0 successfully initialized!
+2026-06-22 09:17:57.966 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup1 DefaultTranslatorA initialized
+2026-06-22 09:17:57.966 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup1 CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.966 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup1 DefaultCommunicator initialized
+2026-06-22 09:17:57.967 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup1 deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.967 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup1 successfully initialized!
+2026-06-22 09:17:57.968 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup2 DefaultTranslatorA initialized
+2026-06-22 09:17:57.968 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup2 CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.968 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup2 DefaultCommunicator initialized
+2026-06-22 09:17:57.968 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup2 deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.969 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup2 successfully initialized!
+2026-06-22 09:17:57.969 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup3 DefaultTranslatorA initialized
+2026-06-22 09:17:57.969 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup3 CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.969 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup3 DefaultCommunicator initialized
+2026-06-22 09:17:57.970 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup3 deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.970 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup3 successfully initialized!
+2026-06-22 09:17:57.971 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup4 DefaultTranslatorA initialized
+2026-06-22 09:17:57.971 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup4 CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.972 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup4 DefaultCommunicator initialized
+2026-06-22 09:17:57.972 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup4 deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.972 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup4 successfully initialized!
+2026-06-22 09:17:57.973 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup5 DefaultTranslatorA initialized
+2026-06-22 09:17:57.973 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup5 CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.974 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup5 DefaultCommunicator initialized
+2026-06-22 09:17:57.974 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup5 deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.975 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup5 successfully initialized!
+2026-06-22 09:17:57.976 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup6 DefaultTranslatorA initialized
+2026-06-22 09:17:57.976 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup6 CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.977 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup6 DefaultCommunicator initialized
+2026-06-22 09:17:57.978 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup6 deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.979 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup6 successfully initialized!
+2026-06-22 09:17:57.980 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup7 DefaultTranslatorA initialized
+2026-06-22 09:17:57.981 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup7 CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.981 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup7 DefaultCommunicator initialized
+2026-06-22 09:17:57.981 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup7 deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.981 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup7 successfully initialized!
+2026-06-22 09:17:57.982 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup8 DefaultTranslatorA initialized
+2026-06-22 09:17:57.982 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup8 CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.982 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup8 DefaultCommunicator initialized
+2026-06-22 09:17:57.982 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup8 deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.982 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup8 successfully initialized!
+2026-06-22 09:17:57.983 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup9 DefaultTranslatorA initialized
+2026-06-22 09:17:57.983 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup9 CombatGroupTranslatorO initialized
+2026-06-22 09:17:57.983 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup9 DefaultCommunicator initialized
+2026-06-22 09:17:57.983 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup9 deepseek-v4-pro DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-22 09:17:57.984 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup9 successfully initialized!
+2026-06-22 09:17:57.985 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:__init__:60 - [ID 1] Main Agent successfully initialized!
+2026-06-22 09:17:58.013 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 1 -------------------------------------------------- ----------
+2026-06-22 09:17:58.019 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:222 - [ID 1] 2.1 正在确定xy世界坐标范围：64 
+2026-06-22 09:17:58.021 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量0
+2026-06-22 09:17:58.021 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=76 unit_f.y=65
+2026-06-22 09:17:58.022 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.022 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2026-06-22 09:17:58.023 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2026-06-22 09:17:58.041 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 2 -------------------------------------------------- ----------
+2026-06-22 09:17:58.044 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量0
+2026-06-22 09:17:58.044 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=14.5 minimap_camera_y_predict=30.5
+2026-06-22 09:17:58.044 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=16.714285714285715 minimap_unit_y_predict=31.095238095238095
+2026-06-22 09:17:58.045 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.045 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2026-06-22 09:17:58.045 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2026-06-22 09:17:58.070 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 3 -------------------------------------------------- ----------
+2026-06-22 09:17:58.073 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量7.2023809523809526
+2026-06-22 09:17:58.073 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=15.5 minimap_camera_y_predict=45.5
+2026-06-22 09:17:58.074 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=16.714285714285715 minimap_unit_y_predict=31.095238095238095
+2026-06-22 09:17:58.075 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.075 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 24.202380952380953]])
+2026-06-22 09:17:58.075 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 24.202380952380953]])
+2026-06-22 09:17:58.086 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 4 -------------------------------------------------- ----------
+2026-06-22 09:17:58.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量14.404761904761905
+2026-06-22 09:17:58.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=15.5 minimap_camera_y_predict=45.5
+2026-06-22 09:17:58.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=16.714285714285715 minimap_unit_y_predict=31.095238095238095
+2026-06-22 09:17:58.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 31.404761904761905]])
+2026-06-22 09:17:58.088 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 31.404761904761905]])
+2026-06-22 09:17:58.099 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 5 -------------------------------------------------- ----------
+2026-06-22 09:17:58.099 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量21.607142857142858
+2026-06-22 09:17:58.100 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=15.5 minimap_camera_y_predict=45.5
+2026-06-22 09:17:58.100 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=16.714285714285715 minimap_unit_y_predict=31.095238095238095
+2026-06-22 09:17:58.100 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.100 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 38.60714285714286]])
+2026-06-22 09:17:58.100 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 38.60714285714286]])
+2026-06-22 09:17:58.112 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 6 -------------------------------------------------- ----------
+2026-06-22 09:17:58.114 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量26.013392857142858
+2026-06-22 09:17:58.114 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=-30
+2026-06-22 09:17:58.115 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.115 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 43.01339285714286]])
+2026-06-22 09:17:58.115 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 43.01339285714286]])
+2026-06-22 09:17:58.152 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 7 -------------------------------------------------- ----------
+2026-06-22 09:17:58.152 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量28.638392857142858
+2026-06-22 09:17:58.152 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=8
+2026-06-22 09:17:58.153 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.153 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 45.63839285714286]])
+2026-06-22 09:17:58.153 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 45.63839285714286]])
+2026-06-22 09:17:58.172 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 8 -------------------------------------------------- ----------
+2026-06-22 09:17:58.175 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量30.044642857142858
+2026-06-22 09:17:58.175 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=34
+2026-06-22 09:17:58.175 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.176 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 47.04464285714286]])
+2026-06-22 09:17:58.176 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 47.04464285714286]])
+2026-06-22 09:17:58.190 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 9 -------------------------------------------------- ----------
+2026-06-22 09:17:58.194 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量30.935267857142858
+2026-06-22 09:17:58.194 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=45
+2026-06-22 09:17:58.194 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.194 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 47.93526785714286]])
+2026-06-22 09:17:58.194 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 47.93526785714286]])
+2026-06-22 09:17:58.217 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 10 -------------------------------------------------- ----------
+2026-06-22 09:17:58.218 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量31.435267857142858
+2026-06-22 09:17:58.219 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=56
+2026-06-22 09:17:58.219 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.219 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.43526785714286]])
+2026-06-22 09:17:58.220 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.43526785714286]])
+2026-06-22 09:17:58.231 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 11 -------------------------------------------------- ----------
+2026-06-22 09:17:58.232 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量31.935267857142858
+2026-06-22 09:17:58.232 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=56
+2026-06-22 09:17:58.232 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.232 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.93526785714286]])
+2026-06-22 09:17:58.232 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.93526785714286]])
+2026-06-22 09:17:58.243 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 12 -------------------------------------------------- ----------
+2026-06-22 09:17:58.244 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成True x偏移量0.5625 y偏移量31.935267857142858
+2026-06-22 09:17:58.244 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=61
+2026-06-22 09:17:58.244 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4309647361
+2026-06-22 09:17:58.244 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.93526785714286]])
+2026-06-22 09:17:58.244 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.93526785714286]])
+2026-06-22 09:17:58.263 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 13 -------------------------------------------------- ----------
+2026-06-22 09:17:58.264 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4310171649, 4311744513, 4309647361, 4310695937, 4311482369, 4309909505, 4312793089, 4310958081, 4310433793, 4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.265 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100e80001
+2026-06-22 09:17:58.266 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4310171649
+2026-06-22 09:17:58.266 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4311744513, 4309647361, 4310695937, 4311482369, 4309909505, 4312793089, 4310958081, 4310433793, 4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.267 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101000001
+2026-06-22 09:17:58.268 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4311744513
+2026-06-22 09:17:58.268 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4309647361, 4310695937, 4311482369, 4309909505, 4312793089, 4310958081, 4310433793, 4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.269 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Nexus(59) 0x100e00001
+2026-06-22 09:17:58.269 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Nexus 4309647361
+2026-06-22 09:17:58.270 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4310695937, 4311482369, 4309909505, 4312793089, 4310958081, 4310433793, 4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.271 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100f00001
+2026-06-22 09:17:58.271 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4310695937
+2026-06-22 09:17:58.272 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4311482369, 4309909505, 4312793089, 4310958081, 4310433793, 4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.273 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100fc0001
+2026-06-22 09:17:58.273 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4311482369
+2026-06-22 09:17:58.273 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4309909505, 4312793089, 4310958081, 4310433793, 4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.275 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100e40001
+2026-06-22 09:17:58.275 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4309909505
+2026-06-22 09:17:58.275 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4312793089, 4310958081, 4310433793, 4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.276 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101100001
+2026-06-22 09:17:58.276 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4312793089
+2026-06-22 09:17:58.276 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4310958081, 4310433793, 4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.277 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100f40001
+2026-06-22 09:17:58.277 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4310958081
+2026-06-22 09:17:58.277 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4310433793, 4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.278 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100ec0001
+2026-06-22 09:17:58.279 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4310433793
+2026-06-22 09:17:58.279 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.279 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup8
+2026-06-22 09:17:58.279 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Phoenix 4295229441
+2026-06-22 09:17:58.280 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:86 - [ID 1] get_camera_func_smart(): unit_f Protoss.Phoenix 0x100040001 not near screen center, 112 64
+2026-06-22 09:17:58.280 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:424 - [ID 1] 3.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[34.5625, 47.93526785714286]])
+2026-06-22 09:17:58.280 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[34.5625, 47.93526785714286]])
+2026-06-22 09:17:58.294 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 14 -------------------------------------------------- ----------
+2026-06-22 09:17:58.297 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.298 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup8
+2026-06-22 09:17:58.299 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Phoenix 4295229441
+2026-06-22 09:17:58.299 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:86 - [ID 1] get_camera_func_smart(): unit_f Protoss.Phoenix 0x100040001 not near screen center, 112 64
+2026-06-22 09:17:58.299 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:424 - [ID 1] 3.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[34.5625, 47.93526785714286]])
+2026-06-22 09:17:58.299 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[34.5625, 47.93526785714286]])
+2026-06-22 09:17:58.312 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 15 -------------------------------------------------- ----------
+2026-06-22 09:17:58.314 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.315 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup8
+2026-06-22 09:17:58.316 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Phoenix 4295229441
+2026-06-22 09:17:58.318 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [64, 58]])
+2026-06-22 09:17:58.318 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [64, 58]])
+2026-06-22 09:17:58.346 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 16 -------------------------------------------------- ----------
+2026-06-22 09:17:58.349 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4295229441, 4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.350 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup8
+2026-06-22 09:17:58.350 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Phoenix 4295229441
+2026-06-22 09:17:58.352 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Phoenix 4295229441
+2026-06-22 09:17:58.353 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:541 - [ID 1] 3.7.2 Func Call: FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [64, 58]])
+2026-06-22 09:17:58.353 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [64, 58]])
+2026-06-22 09:17:58.415 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 17 -------------------------------------------------- ----------
+2026-06-22 09:17:58.420 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.421 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup8
+2026-06-22 09:17:58.422 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Phoenix 4301258753
+2026-06-22 09:17:58.422 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [64, 48]])
+2026-06-22 09:17:58.422 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [64, 48]])
+2026-06-22 09:17:58.443 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 18 -------------------------------------------------- ----------
+2026-06-22 09:17:58.445 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4301258753, 4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.446 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup8
+2026-06-22 09:17:58.447 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Phoenix 4301258753
+2026-06-22 09:17:58.448 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Phoenix 4301258753
+2026-06-22 09:17:58.448 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:541 - [ID 1] 3.7.2 Func Call: FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [64, 58]])
+2026-06-22 09:17:58.448 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [64, 58]])
+2026-06-22 09:17:58.469 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 19 -------------------------------------------------- ----------
+2026-06-22 09:17:58.473 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4312530945, 4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.475 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x1010c0001
+2026-06-22 09:17:58.476 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4312530945
+2026-06-22 09:17:58.476 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4312268801, 4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.478 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101080001
+2026-06-22 09:17:58.478 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4312268801
+2026-06-22 09:17:58.479 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4311220225, 4312006657, 4299161601]
+2026-06-22 09:17:58.480 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x100f80001
+2026-06-22 09:17:58.480 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4311220225
+2026-06-22 09:17:58.481 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4312006657, 4299161601]
+2026-06-22 09:17:58.483 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101040001
+2026-06-22 09:17:58.483 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4312006657
+2026-06-22 09:17:58.484 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4299161601]
+2026-06-22 09:17:58.486 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup8
+2026-06-22 09:17:58.487 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Phoenix 4299161601
+2026-06-22 09:17:58.488 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [64, 69]])
+2026-06-22 09:17:58.488 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [64, 69]])
+2026-06-22 09:17:58.512 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 20 -------------------------------------------------- ----------
+2026-06-22 09:17:58.513 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4299161601]
+2026-06-22 09:17:58.515 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup8
+2026-06-22 09:17:58.515 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Phoenix 4299161601
+2026-06-22 09:17:58.517 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Phoenix 4299161601
+2026-06-22 09:17:58.518 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:541 - [ID 1] 3.7.2 Func Call: FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [64, 58]])
+2026-06-22 09:17:58.518 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [64, 58]])
+2026-06-22 09:17:58.601 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 21 -------------------------------------------------- ----------
+2026-06-22 09:17:58.626 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:00 Loop0 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-22 09:17:58.626 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-22 09:17:58.638 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 22 -------------------------------------------------- ----------
+2026-06-22 09:17:58.656 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:00 Loop0 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-22 09:17:58.657 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-22 09:17:58.681 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 23 -------------------------------------------------- ----------
+2026-06-22 09:17:58.710 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:00 Loop0 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-22 09:17:58.711 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-22 09:17:58.731 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 24 -------------------------------------------------- ----------
+2026-06-22 09:17:58.757 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop0 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-22 09:17:58.758 | SUCCESS  | llm_pysc2.lib.llm_communicate:communication_info_transmission:72 - [ID 1] 7.0 All LLMAgent skip communication stage
+2026-06-22 09:17:58.758 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:343 - [ID 1] 7.0 Main Loop Lock! Ignore outer-loop actions. 
+2026-06-22 09:17:58.962 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:371 - [ID 1] 7.1 Agent CombatGroup8: query status
+2026-06-22 09:17:58.965 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:448 - [ID 1] 7.1.5.1 Agent CombatGroup8: Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select_all_type: 2>], [64, 58]])
+2026-06-22 09:17:58.981 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 25 -------------------------------------------------- ----------
+2026-06-22 09:17:59.004 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop0 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-22 09:17:59.009 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:371 - [ID 1] 7.1 Agent CombatGroup8: query status
+2026-06-22 09:17:59.010 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:476 - [ID 1] 7.1.6 Agent CombatGroup8: collect obs for team Phoenix-1
+2026-06-22 09:17:59.024 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:371 - [ID 1] 7.1 Agent CombatGroup8: query status
+2026-06-22 09:17:59.024 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:381 - [ID 1] 7.1.2 Agent CombatGroup8: Obs prepared, try calling LLM api
+2026-06-22 09:17:59.026 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:303 - [ID 1] LLMAgent CombatGroup8: Start waiting for response
+2026-06-22 09:17:59.027 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:391 - [ID 1] 7.2 All Agent waiting for response
+2026-06-22 09:17:59.036 | SUCCESS  | llm_pysc2.lib.deepseek_client:query:120 - [ID 1] CombatGroup8 Start calling DeepSeek API!

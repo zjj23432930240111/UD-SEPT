@@ -1,0 +1,25 @@
+20260621023421
+2026-06-21 02:41:13.847 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-21 02:41:13.847 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-21 02:45:45.282 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:411 - [ID 1] Agent CombatGroup7: unit of tag 4318298113 not found
+2026-06-21 02:45:45.282 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:412 - [ID 1]                     relative team = {'name': 'AdeptPhase-1', 'unit_type': [<Protoss.AdeptPhaseShift: 801>], 'game_group': -1, 'select_type': 'select_all_type', 'task': [{'time': None, 'pos': [52, 32], 'info': 'Go to minimap coordinate [52, 32], and try to avoid been detected or attacked before arrival.'}, {'time': None, 'pos': None, 'info': 'Kill as much as enemy workers as possible.'}], 'unit_tags': [4318298113], 'unit_tags_selected': [4318035969, 4318298113], 'obs': [], 'pos': [], 'minimap_pos': [[29, 31], [32, 31], [37, 31], [40, 29], [44, 29], [47, 29]]}
+2026-06-21 02:45:45.286 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:413 - [ID 1] unit_f is None
+2026-06-21 02:46:21.529 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:571 - [ID 1] 7.3.2.1 Agent CombatGroup7: unit of tag 4300996609 not found
+2026-06-21 02:46:21.529 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:572 - [ID 1]         relative team = Adept-1 [4300996609, 4297588737]
+2026-06-21 02:46:21.530 | ERROR    | llm_pysc2.agents.llm_pysc2_agent_main:step:574 - [ID 1] 7.3.4 Agent CombatGroup7: Func Call: FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2026-06-21 02:52:52.454 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-21 02:52:52.454 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-21 02:55:38.201 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-21 02:55:38.201 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-21 02:56:24.804 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-21 02:56:24.805 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-21 02:57:49.311 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-21 02:57:49.311 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-21 03:01:40.149 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-21 03:01:40.150 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-21 03:03:11.182 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-21 03:03:11.182 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-21 03:03:58.067 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-21 03:03:58.067 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error
+2026-06-21 03:04:45.184 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup7 DeepSeek query runtime error
+2026-06-21 03:04:45.185 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup7 Error calling DeepSeek API: CombatGroup7 DeepSeek query runtime error

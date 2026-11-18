@@ -1,0 +1,20 @@
+{
+  "task": 3,
+  "level": 2,
+  "strategy": "raw",
+  "game_id": 8,
+  "result": "win",
+  "total_steps": 961,
+  "total_tokens_in": 132186,
+  "total_tokens_out": 66847,
+  "total_time_sec": 1372.29,
+  "num_decision_steps": 41,
+  "avg_entropy": 0.0,
+  "max_entropy": 0.0,
+  "min_entropy": 0.0,
+  "std_entropy": 0.0,
+  "avg_consistency_ratio": 1.0,
+  "fallback_ratio": 0.0,
+  "valid_action_ratio": 1.0,
+  "timestamp": 1782445502.6585028
+}

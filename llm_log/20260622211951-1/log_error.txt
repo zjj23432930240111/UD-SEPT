@@ -1,0 +1,14 @@
+20260622211951
+2026-06-22 21:31:50.559 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 21:31:50.559 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-22 21:40:29.732 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 21:40:29.732 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-22 21:41:39.048 | ERROR    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:72 - [ID 1] CombatGroup8 Phoenix-1 cannot find unit Neutral.VespeneGeyser 0x100400001
+2026-06-22 21:41:39.079 | ERROR    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:72 - [ID 1] CombatGroup8 Phoenix-1 cannot find unit Neutral.VespeneGeyser 0x100400001
+2026-06-22 21:41:39.142 | ERROR    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:72 - [ID 1] CombatGroup8 Phoenix-1 cannot find unit Neutral.VespeneGeyser 0x100400001
+2026-06-22 21:41:39.187 | ERROR    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:72 - [ID 1] CombatGroup8 Phoenix-1 cannot find unit Neutral.VespeneGeyser 0x100400001
+2026-06-22 21:41:39.204 | ERROR    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:72 - [ID 1] CombatGroup8 Phoenix-1 cannot find unit Neutral.VespeneGeyser 0x100400001
+2026-06-22 21:42:24.697 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 21:42:24.697 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error
+2026-06-22 21:44:02.319 | ERROR    | llm_pysc2.lib.deepseek_client:query:131 - [ID 1] CombatGroup8 DeepSeek query runtime error
+2026-06-22 21:44:02.319 | ERROR    | llm_pysc2.lib.deepseek_client:query:152 - [ID 1] CombatGroup8 Error calling DeepSeek API: CombatGroup8 DeepSeek query runtime error

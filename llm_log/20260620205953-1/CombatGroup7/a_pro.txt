@@ -1,0 +1,21 @@
+{"0": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"1": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>"}
+{"2": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"3": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"4": "Actions:\n\tTeam Adept-1:\n\t\t<No_Operation()>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"5": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Minimap([52, 32])>"}
+{"6": "Actions:\n\tTeam Adept-1:\n\t\t<Hold_Position()>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"7": "Actions:\n\tTeam Adept-1:\n\t\t<Hold_Position()>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"8": "Actions:\n\tTeam Adept-1:\n\t\t<Hold_Position()>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"9": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([65, 80])>\n\t\t<Move_Screen([100, 80])>\n\t\t<Move_Screen([104, 64])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"10": "Actions:\n\tTeam Adept-1:\n\t\t<Hold_Position()>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Hold_Position()>"}
+{"11": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52,32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Screen([48,55])>"}
+{"12": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52,32])>"}
+{"13": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1014c0001)>\n\t\t<Attack_Unit(0x1012c0001)>\n\t\t<Attack_Unit(0x101340001)>"}
+{"14": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1012c0001)>\n\t\t<Attack_Unit(0x101340001)>\n\t\t<Move_Screen([70, 90])>"}
+{"15": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1012c0001)>\n\t\t<Attack_Unit(0x101500001)>\n\t\t<Move_Screen([70, 90])>"}
+{"16": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101500001)>\n\t\t<Attack_Unit(0x101440001)>\n\t\t<Move_Screen([45, 30])>"}
+{"17": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x100500001)>\n\t\t<Ability_AdeptPhaseShift_Screen([45, 70])>"}
+{"18": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101440001)>"}
+{"19": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Screen([20, 40])>\n\t\t<Move_Screen([70, 30])>"}
+{"20": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101380001)>\n\t\t<Attack_Unit(0x101300001)>\n\t\t<Attack_Unit(0x101480001)>\n\tTeam AdeptPhase-1:\n\t\t<Move_Screen([70, 55])>"}

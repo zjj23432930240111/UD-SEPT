@@ -1,0 +1,3 @@
+{"0": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"1": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"2": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}

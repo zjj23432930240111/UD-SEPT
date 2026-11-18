@@ -1,0 +1,85 @@
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop0;   step29;   [   Success  ]  FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [16.0, 32.0]])
+CombatGroup1;   loop0;   step30;   [   Success  ]  FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.queued: 1>]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop1;   step54;   [   Success  ]  FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.now: 0>]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop2;   step75;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [30, 64]])
+CombatGroup1;   loop2;   step76;   [   Success  ]  FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.queued: 1>]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop3;   step99;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [30, 64]])
+CombatGroup1;   loop3;   step100;   [   Success  ]  FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.queued: 1>]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop4;   step123;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [40, 60]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop5;   step145;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [116, 46]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop6;   step168;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [51, 20]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop7;   step192;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [71, 45]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop8;   step213;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [57, 45]])
+CombatGroup1;   loop8;   step214;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.queued: 1>], [56, 45]])
+CombatGroup1;   loop8;   step215;   [   Success  ]  FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.queued: 1>]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop9;   step236;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [56, 45]])
+CombatGroup1;   loop9;   step237;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.queued: 1>], [58, 48]])
+CombatGroup1;   loop9;   step238;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.queued: 1>], [72, 50]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop10;   step267;   [   Success  ]  FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [16.0, 32.0]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop11;   step284;   [   Success  ]  FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [20.0, 32.0]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop12;   step306;   [   Success  ]  FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [16.0, 32.0]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop13;   step333;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [75, 56]])
+CombatGroup1;   loop13;   step334;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.queued: 1>], [32, 64]])
+CombatGroup1;   loop13;   step335;   [   Success  ]  FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.queued: 1>]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop14;   step351;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [64, 56]])
+CombatGroup1;   loop14;   step352;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.queued: 1>], [32, 64]])
+CombatGroup1;   loop14;   step353;   [   Success  ]  FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.queued: 1>]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop15;   step379;   [   Success  ]  FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.now: 0>]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop16;   step398;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [77, 95]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop17;   step420;   [   Success  ]  FunctionCall(function=<_Functions.select_rect: 3>, arguments=[[<SelectAdd.select: 0>], [69, 54], [73, 58]])
+CombatGroup1;   loop17;   step421;   [   Success  ]  FunctionCall(function=<_Functions.Effect_Blink_screen: 180>, arguments=[[<Queued.now: 0>], [69, 84]])
+CombatGroup1;   loop17;   step422;   [   Success  ]  FunctionCall(function=<_Functions.select_rect: 3>, arguments=[[<SelectAdd.select: 0>], [64, 59], [68, 63]])
+CombatGroup1;   loop17;   step423;   [   Success  ]  FunctionCall(function=<_Functions.Effect_Blink_screen: 180>, arguments=[[<Queued.now: 0>], [67, 84]])
+CombatGroup1;   loop17;   step424;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.queued: 1>], [66, 80]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop18;   step445;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [55, 35]])
+CombatGroup1;   loop18;   step446;   [   Success  ]  FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.queued: 1>]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop19;   step474;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [46, 10]])
+CombatGroup1;   loop19;   step475;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.queued: 1>], [41, 32]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop20;   step491;   [Invalid Args]  Attack_screen ['now', 'cannot find unit 0x1019c0004 on screen'] 
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop21;   step513;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [61, 66]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop22;   step535;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [61, 66]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop23;   step559;   [Invalid Args]  Attack_screen ['now', 'cannot find unit 0x101140003 on screen'] 
+CombatGroup1;   loop23;   step559;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.queued: 1>], [30, 66]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop24;   step583;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [44, 56]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop25;   step606;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [66, 61]])
+CombatGroup1;   loop25;   step607;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.queued: 1>], [90, 55]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop26;   step629;   [Invalid Args]  Attack_screen ['now', 'cannot find unit 0x100440003 on screen'] 
+CombatGroup1;   loop26;   step629;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.queued: 1>], [80, 55]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop27;   step651;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [61, 84]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop28;   step672;   [   Success  ]  FunctionCall(function=<_Functions.Attack_screen: 12>, arguments=[[<Queued.now: 0>], [64, 70]])
+CombatGroup1;   loop28;   step673;   [   Success  ]  FunctionCall(function=<_Functions.select_rect: 3>, arguments=[[<SelectAdd.select: 0>], [62, 45], [66, 49]])
+CombatGroup1;   loop28;   step674;   [   Success  ]  FunctionCall(function=<_Functions.Effect_Blink_screen: 180>, arguments=[[<Queued.now: 0>], [88, 61]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop29;   step712;   [   Success  ]  FunctionCall(function=<_Functions.Effect_Blink_screen: 180>, arguments=[[<Queued.now: 0>], [88, 61]])
+CombatGroup1;   loop29;   step713;   [   Success  ]  FunctionCall(function=<_Functions.HoldPosition_quick: 274>, arguments=[[<Queued.queued: 1>]])
+----------------------------------------------------------------------------------------------------
+CombatGroup1;   loop30;   step721;   [   Success  ]  FunctionCall(function=<_Functions.Move_screen: 331>, arguments=[[<Queued.now: 0>], [42, 62]])

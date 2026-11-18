@@ -1,0 +1,22 @@
+{"0": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"1": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"2": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"3": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"4": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"5": "Actions:\n\tTeam Phoenix-1:\n\t\t<Attack_Unit(0x100240001)>\n\t\t<Move_Minimap([52, 32])>"}
+{"6": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([104, 54])>\n\t\t<Move_Minimap([52, 32])>"}
+{"7": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([100, 55])>\n\t\t<Move_Minimap([52, 32])>"}
+{"8": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"9": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"10": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"11": ""}
+{"12": ""}
+{"13": ""}
+{"14": "Actions:\n\tTeam Phoenix-1:\n\t\t<Attack_Unit(0x101480001)>\n\t\t<Attack_Unit(0x101380001)>\n\t\t<Move_Screen([100, 70])>"}
+{"15": ""}
+{"16": ""}
+{"17": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([60, 40])>"}
+{"18": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([10, 25])>\n\t\t<Attack_Unit(0x101400001)>"}
+{"19": ""}
+{"20": ""}
+{"21": "Actions:\n\tTeam Phoenix-1:\n\t\t<Attack_Unit(0x101440001)>"}

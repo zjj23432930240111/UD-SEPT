@@ -1,0 +1,24 @@
+{"0": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"1": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"2": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"3": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"4": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"5": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"6": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"7": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"8": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([55, 30])>"}
+{"9": "Actions:\n\tTeam Phoenix-1:\n\t\t<Attack_Unit(0x1012c0001)>\n\t\t<Attack_Unit(0x101380001)>\n\t\t<Move_Screen([85, 50])>"}
+{"10": "Actions:\n\tTeam Phoenix-1:\n\t\t<Attack_Unit(0x1013c0001)>\n\t\t<Move_Screen([100, 80])>"}
+{"11": "Actions:\n\tTeam Phoenix-1:\n\t\t<Attack_Unit(0x1013c0001)>\n\t\t<Move_Screen([60, 60])>\n\t\t<Stop()>"}
+{"12": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([18,53])>\n\t\t<Attack_Unit(0x101380001)>\n\t\t<Stop()>"}
+{"13": ""}
+{"14": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([20, 50])>\n\t\t<Move_Screen([10, 40])>\n\t\t<No_Operation()>"}
+{"15": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([80, 60])>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"16": "Actions:\n\tTeam Phoenix-1:\n\t\t<Select_Unit_Ability_GravitonBeam_Unit(0x100040001, 0x100240001)>\n\t\t<Move_Screen([15, 40])>\n\t\t<Attack_Unit(0x1013c0001)>"}
+{"17": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([10, 45])>\n\t\t<Attack_Unit(0x1013c0001)>\n\t\t<Attack_Unit(0x101380001)>"}
+{"18": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([100, 20])>\n\t\t<Move_Screen([100, 20])>\n\t\t<Move_Screen([100, 20])>"}
+{"19": ""}
+{"20": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([15,35])>\n\t\t<Attack_Unit(0x1012c0001)>\n\t\t<Attack_Unit(0x101400001)>"}
+{"21": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([17,12])>\n\t\t<Attack_Unit(0x101340001)>\n\t\t<Move_Screen([0,0])>"}
+{"22": "Actions:\n\tTeam Phoenix-1:\n\t\t<Attack_Unit(0x1013c0001)>\n\t\t<Attack_Unit(0x101280001)>\n\t\t<Move_Screen([55, 20])>"}
+{"23": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([90, 50])>\n\t\t<Attack_Unit(0x101480001)>"}

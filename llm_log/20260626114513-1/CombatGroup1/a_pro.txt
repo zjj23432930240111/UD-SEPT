@@ -1,0 +1,24 @@
+{"0": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([28, 64])>\n\t\t<Hold_Position()>"}
+{"1": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([90, 68])>\n\t\t<Attack_Unit(0x101840001)>"}
+{"2": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([118, 68])>\n\t\t<Attack_Unit(0x101840001)>"}
+{"3": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>\n\t\t<Move_Screen([30, 70])>"}
+{"4": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>\n\t\t<Move_Screen([30, 70])>"}
+{"5": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>\n\t\t<Move_Minimap([16, 32])>"}
+{"6": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>"}
+{"7": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([20, 70])>\n\t\t<Hold_Position()>"}
+{"8": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x1019c0001)>\n\t\t<Attack_Unit(0x101980001)>\n\t\t<Hold_Position()>"}
+{"9": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a00001)>\n\t\t<Attack_Unit(0x101a40001)>\n\t\t<Attack_Unit(0x101980001)>"}
+{"10": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a80001)>\n\t\t<Attack_Unit(0x101980001)>"}
+{"11": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101980001)>"}
+{"12": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101800001)>"}
+{"13": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101800001)>\n\t\t<Move_Screen([32, 64])>"}
+{"14": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>"}
+{"15": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16,32])>"}
+{"16": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([75, 35])>\n\t\t<Attack_Unit(0x101a00002)>\n\t\t<Move_Screen([60, 70])>"}
+{"17": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a00002)>\n\t\t<Move_Screen([60, 70])>"}
+{"18": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a00002)>\n\t\t<Attack_Unit(0x101840003)>"}
+{"19": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840003)>"}
+{"20": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840003)>\n\t\t<Move_Screen([35, 85])>\n\t\t<Hold_Position()>"}
+{"21": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101900003)>\n\t\t<Attack_Unit(0x101ac0004)>\n\t\t<Hold_Position()>"}
+{"22": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101b00004)>\n\t\t<Attack_Unit(0x101840003)>"}
+{"23": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101b40003)>\n\t\t<Attack_Unit(0x101840003)>\n\t\t<Move_Screen([15, 85])>"}

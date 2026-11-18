@@ -1,0 +1,20 @@
+{
+  "task": 2,
+  "level": 2,
+  "strategy": "uaaf",
+  "game_id": 4,
+  "result": "lose",
+  "total_steps": 481,
+  "total_tokens_in": 181570,
+  "total_tokens_out": 104025,
+  "total_time_sec": 1630.96,
+  "num_decision_steps": 16,
+  "avg_entropy": 0.859075,
+  "max_entropy": 2.0,
+  "min_entropy": 0.0,
+  "std_entropy": 0.5902686395828598,
+  "avg_consistency_ratio": 0.671875,
+  "fallback_ratio": 0.25,
+  "valid_action_ratio": 0.9375,
+  "timestamp": 1782307988.3859787
+}

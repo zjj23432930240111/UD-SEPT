@@ -1,0 +1,20 @@
+{
+  "task": 3,
+  "level": 2,
+  "strategy": "uaaf",
+  "game_id": 4,
+  "result": "win",
+  "total_steps": 961,
+  "total_tokens_in": 543948,
+  "total_tokens_out": 266128,
+  "total_time_sec": 4139.13,
+  "num_decision_steps": 41,
+  "avg_entropy": 0.6739487804878049,
+  "max_entropy": 1.585,
+  "min_entropy": 0.0,
+  "std_entropy": 0.5341151712477837,
+  "avg_consistency_ratio": 0.7459341463414635,
+  "fallback_ratio": 0.14634146341463414,
+  "valid_action_ratio": 1.0,
+  "timestamp": 1782354430.5972342
+}

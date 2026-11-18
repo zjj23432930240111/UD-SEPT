@@ -1,0 +1,23 @@
+{"0": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"1": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"2": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"3": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"4": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"5": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"6": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Screen([10, 64])>\n\t\t<Move_Minimap([52, 32])>"}
+{"7": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([10, 60])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"8": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([5, 60])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"9": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([5, 60])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"10": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x100340001)>\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"11": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x100600001)>\n\t\t<Move_Screen([66, 63])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Screen([105, 45])>"}
+{"12": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"13": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"14": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"15": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"16": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"17": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101380001)>\n\t\t<Ability_AdeptPhaseShift_Screen([100, 60])>"}
+{"18": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101300001)>\n\t\t<Attack_Unit(0x101400001)>\n\t\t<Attack_Unit(0x101500001)>"}
+{"19": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101400001)>\n\t\t<Attack_Unit(0x101500001)>\n\t\t<Attack_Unit(0x1013c0001)>"}
+{"20": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Minimap([50, 32])>\n\t\t<Attack_Unit(0x101500001)>"}
+{"21": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x101500001)>\n\t\t<Attack_Unit(0x1013c0001)>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"22": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x1013c0001)>\n\t\t<Move_Screen([58, 60])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}

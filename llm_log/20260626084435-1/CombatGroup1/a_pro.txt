@@ -1,0 +1,6 @@
+{"0": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([40, 50])>\n\t\t<Hold_Position()>"}
+{"1": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>"}
+{"2": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([120, 58])>\n\t\t<Attack_Unit(0x101840001)>"}
+{"3": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>"}
+{"4": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>"}
+{"5": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([25, 65])>"}

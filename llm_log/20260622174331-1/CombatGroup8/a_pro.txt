@@ -1,0 +1,20 @@
+{"0": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"1": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"2": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"3": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"4": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([110, 95])>"}
+{"5": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([20, 90])>"}
+{"6": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([10, 100])>"}
+{"7": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([104, 64])>"}
+{"8": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52,32])>"}
+{"9": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52,32])>"}
+{"10": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"11": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([44, 28])>"}
+{"12": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"13": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([70,60])>\n\t\t<Move_Minimap([52,32])>"}
+{"14": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([110, 85])>\n\t\t<Move_Minimap([52, 32])>"}
+{"15": "Actions:\n\tTeam Phoenix-1:\n\t\t<Hold_Position()>"}
+{"16": ""}
+{"17": ""}
+{"18": ""}
+{"19": ""}

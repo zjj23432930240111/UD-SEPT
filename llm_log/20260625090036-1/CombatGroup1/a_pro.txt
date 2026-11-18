@@ -1,0 +1,41 @@
+{"0": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>\n\t\t<Hold_Position()>"}
+{"1": ""}
+{"2": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([20, 65])>\n\t\t<Hold_Position()>"}
+{"3": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>"}
+{"4": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101980001)>"}
+{"5": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101980001)>"}
+{"6": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101980001)>\n\t\t<Move_Screen([90, 78])>\n\t\t<Attack_Unit(0x101840001)>"}
+{"7": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>"}
+{"8": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>\n\t\t<Move_Minimap([16,32])>\n\t\t<Hold_Position()>"}
+{"9": "Actions:\n\tTeam Stalker-1:\n\t\t<Hold_Position()>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"10": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>"}
+{"11": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>\n\t\t<Hold_Position()>"}
+{"12": "Actions:\n\tTeam Stalker-1:\n\t\t<Hold_Position()>"}
+{"13": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>"}
+{"14": ""}
+{"15": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101800001)>\n\t\t<Attack_Unit(0x101840002)>"}
+{"16": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([87, 30])>\n\t\t<Attack_Unit(0x101840002)>"}
+{"17": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840002)>"}
+{"18": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101980006)>"}
+{"19": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101980006)>\n\t\t<Move_Minimap([16,32])>"}
+{"20": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101980006)>\n\t\t<Move_Screen([55, 80])>"}
+{"21": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>"}
+{"22": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16,32])>\n\t\t<Hold_Position()>"}
+{"23": ""}
+{"24": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101b00008)>"}
+{"25": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101b00008)>\n\t\t<Move_Screen([55, 75])>\n\t\t<Hold_Position()>"}
+{"26": ""}
+{"27": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([55, 93])>\n\t\t<Attack_Unit(0x101840005)>"}
+{"28": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840005)>\n\t\t<Move_Screen([60, 80])>"}
+{"29": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>"}
+{"30": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>\n\t\t<Hold_Position()>"}
+{"31": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16,32])>\n\t\t<Hold_Position()>"}
+{"32": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>\n\t\t<Hold_Position()>"}
+{"33": ""}
+{"34": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([30, 46])>\n\t\t<Hold_Position()>"}
+{"35": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([32, 54])>\n\t\t<Hold_Position()>\n\t\t<No_Operation()>"}
+{"36": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([28, 58])>\n\t\t<Hold_Position()>\n\t\t<No_Operation()>"}
+{"37": ""}
+{"38": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>"}
+{"39": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>\n\t\t<Hold_Position()>"}
+{"40": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>\n\t\t<Hold_Position()>"}

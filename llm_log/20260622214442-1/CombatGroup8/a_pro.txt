@@ -1,0 +1,19 @@
+{"0": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"1": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"2": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Move_Minimap([52, 32])>\n\t\t<Move_Minimap([52, 32])>"}
+{"3": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<Move_Minimap([52, 32])>\n\t\t<Move_Minimap([52, 32])>"}
+{"4": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>\n\t\t<No_Operation()>\n\t\t<No_Operation()>"}
+{"5": "Actions:\n\tTeam Phoenix-1:\n\t\t<Select_Unit_Ability_GravitonBeam_Unit(0x100600001, 0x100240001)>\n\t\t<Select_Unit_Ability_GravitonBeam_Unit(0x100400001, 0x100580001)>\n\t\t<Move_Minimap([52, 32])>"}
+{"6": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"7": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"8": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Minimap([30,15])>"}
+{"9": "Actions:\n\tTeam Phoenix-1:\n\t\t<Select_Unit_Ability_GravitonBeam_Unit(0x100400001, 0x100540001)>\n\t\t<Move_Screen([55,55])>\n\t\t<Attack_Unit(0x101380001)>"}
+{"10": "Actions:\n\tTeam Phoenix-1:\n\t\t<Attack_Unit(0x1012c0001)>"}
+{"11": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([90, 80])>\n\t\t<Attack_Unit(0x101400001)>"}
+{"12": ""}
+{"13": "Actions:\n\tTeam Phoenix-1:\n\t\t<Select_Unit_Ability_GravitonBeam_Unit(0x100400001, 0x100580001)>\n\t\t<Move_Screen([88, 82])>\n\t\t<Attack_Unit(0x101340001)>"}
+{"14": "Actions:\n\tTeam Phoenix-1:\n\t\t<Stop()>\n\t\t<Attack_Unit(0x1012c0001)>\n\t\t<Move_Minimap([44, 29])>"}
+{"15": "Actions:\n\tTeam Phoenix-1:\n\t\t<Stop()>\n\t\t<Move_Screen([20, 20])>\n\t\t<No_Operation()>"}
+{"16": "Actions:\n\tTeam Phoenix-1:\n\t\t<Attack_Unit(0x101340001)>\n\t\t<Move_Screen([50, 85])>\n\t\t<No_Operation()>"}
+{"17": "Actions:\n\tTeam Phoenix-1:\n\t\t<Attack_Unit(0x1014c0001)>\n\t\t<Move_Screen([80,70])>\n\t\t<Attack_Unit(0x1013c0001)>"}
+{"18": "Actions:\n\tTeam Phoenix-1:\n\t\t<Move_Screen([85, 75])>\n\t\t<Attack_Unit(0x101280001)>\n\t\t<Attack_Unit(0x101280001)>"}

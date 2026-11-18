@@ -1,0 +1,12 @@
+{"0": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"1": ""}
+{"2": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"3": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"4": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"5": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"6": ""}
+{"7": "Actions:\n\tTeam Adept-1:\n\t\t<Ability_AdeptPhaseShift_Minimap([52, 32])>\n\t\t<Move_Screen([40, 60])>"}
+{"8": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x100500001)>\n\t\t<Attack_Unit(0x100600001)>\n\t\t<Move_Screen([80, 55])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"9": ""}
+{"10": "Actions:\n\tTeam Adept-1:\n\t\t<Attack_Unit(0x100600001)>\n\t\t<Hold_Position()>\n\tTeam AdeptPhase-1:\n\t\t<Move_Minimap([52, 32])>"}
+{"11": "Actions:\n\tTeam Adept-1:\n\t\t<Move_Screen([40, 50])>\n\t\t<Move_Minimap([52, 32])>\n\tTeam AdeptPhase-1:\n\t\t<Move_Screen([46, 72])>\n\t\t<Stop()>"}

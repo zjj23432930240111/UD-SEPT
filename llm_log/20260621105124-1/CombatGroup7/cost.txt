@@ -1,0 +1,16 @@
+{"0": "time=14.14, ave_time=14.61, token_in=2533, ave_token_in=2533.00, token_out=1132, ave_token_out = 1075.00"}
+{"1": "time=20.66, ave_time=16.58, token_in=2816, ave_token_in=2674.50, token_out=1743, ave_token_out = 1298.67"}
+{"2": "time=13.14, ave_time=15.44, token_in=2794, ave_token_in=2714.33, token_out=1182, ave_token_out = 1244.78"}
+{"3": "time=16.22, ave_time=16.44, token_in=2822, ave_token_in=2741.25, token_out=1482, ave_token_out = 1370.08"}
+{"4": "time=42.66, ave_time=19.59, token_in=2956, ave_token_in=2784.20, token_out=3707, ave_token_out = 1655.13"}
+{"5": "time=39.16, ave_time=22.44, token_in=3131, ave_token_in=2842.00, token_out=3332, ave_token_out = 1897.56"}
+{"6": "time=26.39, ave_time=22.58, token_in=3744, ave_token_in=2970.86, token_out=1979, ave_token_out = 1891.86"}
+{"7": "time=17.63, ave_time=21.96, token_in=2349, ave_token_in=2893.12, token_out=1407, ave_token_out = 1833.42"}
+{"8": "time=18.41, ave_time=22.44, token_in=3407, ave_token_in=2950.22, token_out=1479, ave_token_out = 1865.78"}
+{"9": "time=16.09, ave_time=21.81, token_in=3469, ave_token_in=3002.10, token_out=1293, ave_token_out = 1809.50"}
+{"10": "time=30.90, ave_time=21.69, token_in=3500, ave_token_in=3047.36, token_out=2272, ave_token_out = 1787.67"}
+{"11": "time=38.09, ave_time=22.66, token_in=3491, ave_token_in=3084.33, token_out=3044, ave_token_out = 1864.64"}
+{"12": "time=30.75, ave_time=23.51, token_in=3513, ave_token_in=3117.31, token_out=2580, ave_token_out = 1938.33"}
+{"13": "time=35.43, ave_time=24.18, token_in=3435, ave_token_in=3132.80, token_out=2975, ave_token_out = 1990.73"}
+{"14": "time=30.83, ave_time=24.93, token_in=4464, ave_token_in=3223.57, token_out=2573, ave_token_out = 2053.02"}
+{"15": "time=43.16, ave_time=25.34, token_in=4528, ave_token_in=3252.56, token_out=3269, ave_token_out = 2080.04"}

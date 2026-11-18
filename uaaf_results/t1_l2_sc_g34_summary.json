@@ -1,0 +1,20 @@
+{
+  "task": 1,
+  "level": 2,
+  "strategy": "sc",
+  "game_id": 34,
+  "result": "lose",
+  "total_steps": 481,
+  "total_tokens_in": 160252,
+  "total_tokens_out": 110049,
+  "total_time_sec": 1375.2,
+  "num_decision_steps": 18,
+  "avg_entropy": 0.7883111111111112,
+  "max_entropy": 1.585,
+  "min_entropy": 0.0,
+  "std_entropy": 0.46891893031725274,
+  "avg_consistency_ratio": 0.7037222222222222,
+  "fallback_ratio": 0.0,
+  "valid_action_ratio": 0.8333333333333334,
+  "timestamp": 1782035351.061372
+}

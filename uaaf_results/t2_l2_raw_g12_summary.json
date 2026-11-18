@@ -1,0 +1,20 @@
+{
+  "task": 2,
+  "level": 2,
+  "strategy": "raw",
+  "game_id": 12,
+  "result": "tie",
+  "total_steps": 1441,
+  "total_tokens_in": 33855,
+  "total_tokens_out": 15823,
+  "total_time_sec": 348.79,
+  "num_decision_steps": 18,
+  "avg_entropy": 0.0,
+  "max_entropy": 0.0,
+  "min_entropy": 0.0,
+  "std_entropy": 0.0,
+  "avg_consistency_ratio": 1.0,
+  "fallback_ratio": 0.0,
+  "valid_action_ratio": 0.6666666666666666,
+  "timestamp": 1782202110.0733933
+}

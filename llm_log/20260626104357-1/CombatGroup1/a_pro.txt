@@ -1,0 +1,24 @@
+{"0": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16, 32])>"}
+{"1": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>"}
+{"2": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([32, 64])>\n\t\t<Hold_Position()>"}
+{"3": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([40, 62])>\n\t\t<Hold_Position()>"}
+{"4": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>"}
+{"5": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>"}
+{"6": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840001)>\n\t\t<Attack_Unit(0x101980001)>"}
+{"7": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101980001)>"}
+{"8": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101980001)>\n\t\t<Attack_Unit(0x1019c0001)>"}
+{"9": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a00001)>\n\t\t<Attack_Unit(0x101a40001)>\n\t\t<Move_Screen([66, 45])>"}
+{"10": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([32, 64])>"}
+{"11": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([45, 55])>\n\t\t<Hold_Position()>"}
+{"12": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([32, 64])>\n\t\t<Hold_Position()>"}
+{"13": "Actions:\n\tTeam Stalker-1:\n\t\t<Hold_Position()>"}
+{"14": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Minimap([16,32])>"}
+{"15": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a80002)>"}
+{"16": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a80002)>"}
+{"17": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a80002)>"}
+{"18": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a80002)>\n\t\t<Attack_Unit(0x101a00002)>\n\t\t<Move_Screen([40, 55])>"}
+{"19": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a00002)>\n\t\t<Move_Screen([45, 50])>"}
+{"20": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101840004)>\n\t\t<Attack_Unit(0x101a00002)>\n\t\t<Move_Screen([50, 45])>"}
+{"21": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x1018c0004)>\n\t\t<Attack_Unit(0x101a00002)>\n\t\t<Move_Screen([50, 55])>"}
+{"22": "Actions:\n\tTeam Stalker-1:\n\t\t<Move_Screen([32, 48])>"}
+{"23": "Actions:\n\tTeam Stalker-1:\n\t\t<Attack_Unit(0x101a40007)>"}

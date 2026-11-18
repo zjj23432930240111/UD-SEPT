@@ -1,0 +1,6 @@
+{"0": "time=34.15, ave_time=26.18, token_in=2694, ave_token_in=2694.00, token_out=2728, ave_token_out = 2025.33"}
+{"1": "time=16.00, ave_time=24.69, token_in=3111, ave_token_in=2902.50, token_out=1154, ave_token_out = 1889.67"}
+{"2": "time=26.40, ave_time=25.97, token_in=3319, ave_token_in=3041.33, token_out=1992, ave_token_out = 1997.33"}
+{"3": "time=14.44, ave_time=24.11, token_in=3345, ave_token_in=3117.25, token_out=1060, ave_token_out = 1841.83"}
+{"4": "time=26.05, ave_time=23.63, token_in=3376, ave_token_in=3169.00, token_out=1942, ave_token_out = 1790.40"}
+{"5": "time=30.82, ave_time=23.57, token_in=3280, ave_token_in=3187.50, token_out=2317, ave_token_out = 1775.89"}

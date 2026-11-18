@@ -1,0 +1,1034 @@
+20260623084139
+2026-06-23 08:41:39.825 | INFO     | llm_pysc2.lib.llm_action:__init__:787 - [ID 1] CombatGroup1 DefaultTranslatorA initialized
+2026-06-23 08:41:39.826 | INFO     | llm_pysc2.lib.llm_observation:__init__:752 - [ID 1] CombatGroup1 CombatGroupTranslatorO initialized
+2026-06-23 08:41:39.826 | INFO     | llm_pysc2.lib.llm_communicate:__init__:80 - [ID 1] CombatGroup1 DefaultCommunicator initialized
+2026-06-23 08:41:39.826 | INFO     | llm_pysc2.lib.deepseek_client:__init__:81 - [ID 1] CombatGroup1 deepseek-v4-flash DeepSeekClient initialized (api_url=https://api.deepseek.com/v1/chat/completions)
+2026-06-23 08:41:39.826 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:__init__:137 - [ID 1] Agent CombatGroup1 successfully initialized!
+2026-06-23 08:41:39.828 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:__init__:60 - [ID 1] Main Agent successfully initialized!
+2026-06-23 08:41:39.858 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 1 -------------------------------------------------- ----------
+2026-06-23 08:41:39.861 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:222 - [ID 1] 2.1 正在确定xy世界坐标范围：64 
+2026-06-23 08:41:39.862 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量0
+2026-06-23 08:41:39.862 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=76 unit_f.y=65
+2026-06-23 08:41:39.863 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:39.863 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2026-06-23 08:41:39.863 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2026-06-23 08:41:39.878 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 2 -------------------------------------------------- ----------
+2026-06-23 08:41:39.880 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量0
+2026-06-23 08:41:39.880 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=14.5 minimap_camera_y_predict=30.5
+2026-06-23 08:41:39.880 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=17.142857142857142 minimap_unit_y_predict=31.321428571428573
+2026-06-23 08:41:39.881 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:39.881 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2026-06-23 08:41:39.881 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 17]])
+2026-06-23 08:41:39.911 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 3 -------------------------------------------------- ----------
+2026-06-23 08:41:39.912 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量7.0892857142857135
+2026-06-23 08:41:39.913 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=15.5 minimap_camera_y_predict=45.5
+2026-06-23 08:41:39.913 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=17.142857142857142 minimap_unit_y_predict=31.321428571428573
+2026-06-23 08:41:39.913 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:39.913 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 24.089285714285715]])
+2026-06-23 08:41:39.913 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 24.089285714285715]])
+2026-06-23 08:41:39.922 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 4 -------------------------------------------------- ----------
+2026-06-23 08:41:39.923 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量14.178571428571427
+2026-06-23 08:41:39.924 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=15.5 minimap_camera_y_predict=45.5
+2026-06-23 08:41:39.924 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=17.142857142857142 minimap_unit_y_predict=31.321428571428573
+2026-06-23 08:41:39.924 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:39.924 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 31.178571428571427]])
+2026-06-23 08:41:39.924 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 31.178571428571427]])
+2026-06-23 08:41:39.934 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 5 -------------------------------------------------- ----------
+2026-06-23 08:41:39.936 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:309 - [ID 1] 2.3 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量21.26785714285714
+2026-06-23 08:41:39.936 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:311 - [ID 1] 2.3                 minimap_camera_x_predict=15.5 minimap_camera_y_predict=45.5
+2026-06-23 08:41:39.936 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:313 - [ID 1] 2.3                 minimap_unit_x_predict=17.142857142857142 minimap_unit_y_predict=31.321428571428573
+2026-06-23 08:41:39.937 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:315 - [ID 1] 2.3                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:39.937 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:320 - [ID 1] 2.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 38.26785714285714]])
+2026-06-23 08:41:39.937 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 38.26785714285714]])
+2026-06-23 08:41:39.949 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 6 -------------------------------------------------- ----------
+2026-06-23 08:41:39.951 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量25.67410714285714
+2026-06-23 08:41:39.952 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=-30
+2026-06-23 08:41:39.952 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:39.952 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 42.67410714285714]])
+2026-06-23 08:41:39.952 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 42.67410714285714]])
+2026-06-23 08:41:39.983 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 7 -------------------------------------------------- ----------
+2026-06-23 08:41:39.984 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量28.29910714285714
+2026-06-23 08:41:39.984 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=8
+2026-06-23 08:41:39.984 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:39.984 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 45.29910714285714]])
+2026-06-23 08:41:39.984 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 45.29910714285714]])
+2026-06-23 08:41:40.003 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 8 -------------------------------------------------- ----------
+2026-06-23 08:41:40.004 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量29.93973214285714
+2026-06-23 08:41:40.004 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=29
+2026-06-23 08:41:40.005 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:40.005 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 46.93973214285714]])
+2026-06-23 08:41:40.007 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 46.93973214285714]])
+2026-06-23 08:41:40.018 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 9 -------------------------------------------------- ----------
+2026-06-23 08:41:40.020 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量30.83035714285714
+2026-06-23 08:41:40.020 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=45
+2026-06-23 08:41:40.020 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:40.020 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 47.83035714285714]])
+2026-06-23 08:41:40.021 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 47.83035714285714]])
+2026-06-23 08:41:40.037 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 10 -------------------------------------------------- ----------
+2026-06-23 08:41:40.038 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量31.48660714285714
+2026-06-23 08:41:40.038 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=50
+2026-06-23 08:41:40.038 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:40.039 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.48660714285714]])
+2026-06-23 08:41:40.039 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.48660714285714]])
+2026-06-23 08:41:40.060 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 11 -------------------------------------------------- ----------
+2026-06-23 08:41:40.060 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成False x偏移量0.5625 y偏移量31.98660714285714
+2026-06-23 08:41:40.061 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=56
+2026-06-23 08:41:40.061 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:40.061 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.98660714285714]])
+2026-06-23 08:41:40.061 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.98660714285714]])
+2026-06-23 08:41:40.073 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 12 -------------------------------------------------- ----------
+2026-06-23 08:41:40.074 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:256 - [ID 1] 2.2 正在校准xy世界坐标：校准完成True x偏移量0.5625 y偏移量31.98660714285714
+2026-06-23 08:41:40.074 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:258 - [ID 1] 2.2                 unit_f.x=66 unit_f.y=61
+2026-06-23 08:41:40.074 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:259 - [ID 1] 2.2                 unit_type=59 unit_tag=4312530945
+2026-06-23 08:41:40.075 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func0:263 - [ID 1] 2.2 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.98660714285714]])
+2026-06-23 08:41:40.075 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:270 - [ID 1] main_agent_func0: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[25.5625, 48.98660714285714]])
+2026-06-23 08:41:40.085 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 13 -------------------------------------------------- ----------
+2026-06-23 08:41:40.085 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4314628097, 4301783041, 4297850881, 4299423745, 4315676673, 4303880193, 4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.086 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x1012c0001
+2026-06-23 08:41:40.086 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4314628097
+2026-06-23 08:41:40.086 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4314628097
+2026-06-23 08:41:40.086 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4301783041, 4297850881, 4299423745, 4315676673, 4303880193, 4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.086 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Pylon(60) 0x100680001
+2026-06-23 08:41:40.086 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Pylon 4301783041
+2026-06-23 08:41:40.086 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Pylon 4301783041
+2026-06-23 08:41:40.086 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4297850881, 4299423745, 4315676673, 4303880193, 4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Pylon(60) 0x1002c0001
+2026-06-23 08:41:40.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Pylon 4297850881
+2026-06-23 08:41:40.088 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Pylon 4297850881
+2026-06-23 08:41:40.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4299423745, 4315676673, 4303880193, 4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.PhotonCannon(66) 0x100440001
+2026-06-23 08:41:40.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.PhotonCannon 4299423745
+2026-06-23 08:41:40.088 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.PhotonCannon 4299423745
+2026-06-23 08:41:40.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4315676673, 4303880193, 4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x1013c0001
+2026-06-23 08:41:40.088 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4315676673
+2026-06-23 08:41:40.088 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4315676673
+2026-06-23 08:41:40.089 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4303880193, 4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.089 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.089 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4303880193
+2026-06-23 08:41:40.089 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:41:40.089 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:86 - [ID 1] get_camera_func_smart(): unit_f Protoss.Stalker 0x100880001 not near screen center, 109 72
+2026-06-23 08:41:40.090 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:424 - [ID 1] 3.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[33.5625, 46.98660714285714]])
+2026-06-23 08:41:40.090 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[33.5625, 46.98660714285714]])
+2026-06-23 08:41:40.097 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 14 -------------------------------------------------- ----------
+2026-06-23 08:41:40.100 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4303880193, 4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.101 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.101 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4303880193
+2026-06-23 08:41:40.102 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:41:40.102 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:86 - [ID 1] get_camera_func_smart(): unit_f Protoss.Stalker 0x100880001 not near screen center, 109 72
+2026-06-23 08:41:40.102 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:424 - [ID 1] 3.3 Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[33.5625, 46.98660714285714]])
+2026-06-23 08:41:40.103 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[33.5625, 46.98660714285714]])
+2026-06-23 08:41:40.124 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 15 -------------------------------------------------- ----------
+2026-06-23 08:41:40.132 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4303880193, 4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.136 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.136 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4303880193
+2026-06-23 08:41:40.137 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:41:40.138 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [66, 61]])
+2026-06-23 08:41:40.138 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [66, 61]])
+2026-06-23 08:41:40.163 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 16 -------------------------------------------------- ----------
+2026-06-23 08:41:40.166 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4303880193, 4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.167 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.168 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4303880193
+2026-06-23 08:41:40.168 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Stalker 4303880193
+2026-06-23 08:41:40.168 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:528 - [ID 1] 3.7.1 Func Call: FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.169 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.205 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 17 -------------------------------------------------- ----------
+2026-06-23 08:41:40.208 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.209 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.210 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4301258753
+2026-06-23 08:41:40.210 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:41:40.211 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [66, 53]])
+2026-06-23 08:41:40.211 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [66, 53]])
+2026-06-23 08:41:40.233 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 18 -------------------------------------------------- ----------
+2026-06-23 08:41:40.235 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4301258753, 4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.235 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.236 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4301258753
+2026-06-23 08:41:40.236 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Stalker 4301258753
+2026-06-23 08:41:40.236 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:528 - [ID 1] 3.7.1 Func Call: FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.237 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.251 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 19 -------------------------------------------------- ----------
+2026-06-23 08:41:40.254 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4313055233, 4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.255 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101140001
+2026-06-23 08:41:40.256 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4313055233
+2026-06-23 08:41:40.256 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4313055233
+2026-06-23 08:41:40.257 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4315414529, 4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.259 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101380001
+2026-06-23 08:41:40.259 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4315414529
+2026-06-23 08:41:40.260 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4315414529
+2026-06-23 08:41:40.260 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4312793089, 4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.261 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101100001
+2026-06-23 08:41:40.261 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4312793089
+2026-06-23 08:41:40.261 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4312793089
+2026-06-23 08:41:40.261 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4313841665, 4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.263 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101200001
+2026-06-23 08:41:40.263 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4313841665
+2026-06-23 08:41:40.263 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4313841665
+2026-06-23 08:41:40.264 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.265 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.266 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4304404481
+2026-06-23 08:41:40.267 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:41:40.267 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [58, 61]])
+2026-06-23 08:41:40.267 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [58, 61]])
+2026-06-23 08:41:40.331 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 20 -------------------------------------------------- ----------
+2026-06-23 08:41:40.334 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4304404481, 4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.335 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.335 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4304404481
+2026-06-23 08:41:40.336 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Stalker 4304404481
+2026-06-23 08:41:40.336 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:528 - [ID 1] 3.7.1 Func Call: FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.337 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.351 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 21 -------------------------------------------------- ----------
+2026-06-23 08:41:40.353 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4314890241, 4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.355 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101300001
+2026-06-23 08:41:40.355 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4314890241
+2026-06-23 08:41:40.355 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4314890241
+2026-06-23 08:41:40.355 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.356 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.356 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4302831617
+2026-06-23 08:41:40.357 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:41:40.357 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [66, 45]])
+2026-06-23 08:41:40.357 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [66, 45]])
+2026-06-23 08:41:40.371 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 22 -------------------------------------------------- ----------
+2026-06-23 08:41:40.373 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4302831617, 4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.374 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.374 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4302831617
+2026-06-23 08:41:40.375 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Stalker 4302831617
+2026-06-23 08:41:40.375 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:528 - [ID 1] 3.7.1 Func Call: FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.376 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.391 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 23 -------------------------------------------------- ----------
+2026-06-23 08:41:40.393 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4313579521, 4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.394 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x1011c0001
+2026-06-23 08:41:40.394 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4313579521
+2026-06-23 08:41:40.394 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4313579521
+2026-06-23 08:41:40.394 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4314365953, 4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.395 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101280001
+2026-06-23 08:41:40.395 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4314365953
+2026-06-23 08:41:40.395 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4314365953
+2026-06-23 08:41:40.395 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4314103809, 4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.396 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101240001
+2026-06-23 08:41:40.396 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4314103809
+2026-06-23 08:41:40.396 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4314103809
+2026-06-23 08:41:40.396 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4315152385, 4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.397 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101340001
+2026-06-23 08:41:40.397 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4315152385
+2026-06-23 08:41:40.397 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4315152385
+2026-06-23 08:41:40.397 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.400 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.400 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4299685889
+2026-06-23 08:41:40.401 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:41:40.402 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [58, 45]])
+2026-06-23 08:41:40.402 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [58, 45]])
+2026-06-23 08:41:40.419 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 24 -------------------------------------------------- ----------
+2026-06-23 08:41:40.421 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4299685889, 4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.422 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.422 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4299685889
+2026-06-23 08:41:40.423 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Stalker 4299685889
+2026-06-23 08:41:40.423 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:528 - [ID 1] 3.7.1 Func Call: FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.423 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.441 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 25 -------------------------------------------------- ----------
+2026-06-23 08:41:40.442 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4312530945, 4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.443 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Nexus(59) 0x1010c0001
+2026-06-23 08:41:40.444 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Nexus 4312530945
+2026-06-23 08:41:40.444 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Nexus 4312530945
+2026-06-23 08:41:40.444 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4298375169, 4303355905, 4313317377]
+2026-06-23 08:41:40.445 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Pylon(60) 0x100340001
+2026-06-23 08:41:40.445 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Pylon 4298375169
+2026-06-23 08:41:40.445 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Pylon 4298375169
+2026-06-23 08:41:40.445 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4303355905, 4313317377]
+2026-06-23 08:41:40.446 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.446 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4303355905
+2026-06-23 08:41:40.447 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:41:40.448 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:443 - [ID 1] 3.4.1 Func Call: FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [58, 53]])
+2026-06-23 08:41:40.448 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_point: 2>, arguments=[[<SelectPointAct.select: 0>], [58, 53]])
+2026-06-23 08:41:40.501 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 26 -------------------------------------------------- ----------
+2026-06-23 08:41:40.503 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4303355905, 4313317377]
+2026-06-23 08:41:40.504 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = CombatGroup1
+2026-06-23 08:41:40.504 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Stalker 4303355905
+2026-06-23 08:41:40.505 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:521 - [ID 1] 3.6 Finished dealling with Protoss.Stalker 4303355905
+2026-06-23 08:41:40.505 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:528 - [ID 1] 3.7.1 Func Call: FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.505 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:276 - [ID 1] main_agent_func1: Func Call FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.append: 2>], [4]])
+2026-06-23 08:41:40.523 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 27 -------------------------------------------------- ----------
+2026-06-23 08:41:40.525 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:389 - [ID 1] self.unit_uid_appear = [4313317377]
+2026-06-23 08:41:40.525 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:412 - [ID 1] agent_name = Can not find an agent the unit belongs to, unit Protoss.Probe(84) 0x101180001
+2026-06-23 08:41:40.525 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func1:413 - [ID 1] curr_unit = Protoss.Probe 4313317377
+2026-06-23 08:41:40.525 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func1:415 - [ID 1] 3.2 skip Protoss.Probe 4313317377
+2026-06-23 08:41:40.540 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:41:40.541 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:41:40.541 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:41:40.541 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:41:40.541 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:41:40.541 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[]
+2026-06-23 08:41:40.541 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:41:40.541 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop0 Main Status = True False True
+2026-06-23 08:41:40.541 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop0 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:41:40.542 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = []
+2026-06-23 08:41:40.542 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 0
+2026-06-23 08:41:40.542 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:41:40.542 | SUCCESS  | llm_pysc2.lib.llm_communicate:communication_info_transmission:72 - [ID 1] 7.0 All LLMAgent skip communication stage
+2026-06-23 08:41:40.542 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:343 - [ID 1] 7.0 Main Loop Lock! Ignore outer-loop actions. 
+2026-06-23 08:41:40.554 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:371 - [ID 1] 7.1 Agent CombatGroup1: query status
+2026-06-23 08:41:40.554 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_is_all_my_teams_ready_to_query:155 - [ID 1] LLMAgent CombatGroup1, in _is_all_my_teams_ready_to_query(): team Stalker-1 not ready
+2026-06-23 08:41:40.554 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_is_all_my_teams_ready_to_query:157 - [ID 1] LLMAgent CombatGroup1, in _is_all_my_teams_ready_to_query(): team['unit_tags'] = [4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905], self.team_unit_tag_list = []
+2026-06-23 08:41:40.554 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:395 - [ID 1] Agent CombatGroup1 status: 7.1.3
+2026-06-23 08:41:40.554 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_get_unobsed_team_and_unit_tag:164 - [ID 1] LLMAgent CombatGroup1, in _get_unobsed_team_and_unit_tag(): self.team_unit_tag_list = []
+2026-06-23 08:41:40.554 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_get_unobsed_team_and_unit_tag:167 - [ID 1] LLMAgent CombatGroup1, in _get_unobsed_team_and_unit_tag(): team['name'] = Stalker-1, team['unit_tags'] = [4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:41:40.555 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:41:40.555 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:424 - [ID 1] Agent CombatGroup1 status: 7.1.5
+2026-06-23 08:41:40.555 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:452 - [ID 1] Agent CombatGroup1 status: 7.1.5.3
+2026-06-23 08:41:40.555 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:454 - [ID 1] 7.1.5.1 Agent CombatGroup1: Func Call: FunctionCall(function=<_Functions.select_control_group: 4>, arguments=[[<ControlGroupAct.recall: 0>], [4]])
+2026-06-23 08:41:40.575 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 28 -------------------------------------------------- ----------
+2026-06-23 08:41:40.584 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:41:40.584 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:41:40.584 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:41:40.584 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:41:40.584 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:41:40.584 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[]
+2026-06-23 08:41:40.584 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:41:40.584 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop0 Main Status = True False True
+2026-06-23 08:41:40.584 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop0 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:41:40.584 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = []
+2026-06-23 08:41:40.585 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 0
+2026-06-23 08:41:40.585 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:41:40.601 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:371 - [ID 1] 7.1 Agent CombatGroup1: query status
+2026-06-23 08:41:40.601 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_is_all_my_teams_ready_to_query:155 - [ID 1] LLMAgent CombatGroup1, in _is_all_my_teams_ready_to_query(): team Stalker-1 not ready
+2026-06-23 08:41:40.601 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_is_all_my_teams_ready_to_query:157 - [ID 1] LLMAgent CombatGroup1, in _is_all_my_teams_ready_to_query(): team['unit_tags'] = [4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905], self.team_unit_tag_list = []
+2026-06-23 08:41:40.602 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:395 - [ID 1] Agent CombatGroup1 status: 7.1.3
+2026-06-23 08:41:40.602 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_get_unobsed_team_and_unit_tag:164 - [ID 1] LLMAgent CombatGroup1, in _get_unobsed_team_and_unit_tag(): self.team_unit_tag_list = []
+2026-06-23 08:41:40.602 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_get_unobsed_team_and_unit_tag:167 - [ID 1] LLMAgent CombatGroup1, in _get_unobsed_team_and_unit_tag(): team['name'] = Stalker-1, team['unit_tags'] = [4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:41:40.602 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:41:40.603 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:476 - [ID 1] 7.1.6 Agent CombatGroup1: collect obs for team Stalker-1
+2026-06-23 08:41:40.617 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:371 - [ID 1] 7.1 Agent CombatGroup1: query status
+2026-06-23 08:41:40.617 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:381 - [ID 1] 7.1.2 Agent CombatGroup1: Obs prepared, try calling LLM api
+2026-06-23 08:41:40.617 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:382 - [ID 1] len(agent.team_unit_obs_list) = 1
+2026-06-23 08:41:40.617 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:383 - [ID 1] len(agent.team_unit_tag_list) = 1
+2026-06-23 08:41:40.617 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:384 - [ID 1] len(agent.team_unit_team_list) = 1
+2026-06-23 08:41:40.618 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:303 - [ID 1] LLMAgent CombatGroup1: Start waiting for response
+2026-06-23 08:41:40.618 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:391 - [ID 1] 7.2 All Agent waiting for response
+2026-06-23 08:41:40.622 | SUCCESS  | llm_pysc2.lib.deepseek_client:query:120 - [ID 1] CombatGroup1 Start calling DeepSeek API!
+2026-06-23 08:41:40.623 | DEBUG    | llm_pysc2.lib.deepseek_client:query:121 - [ID 1] CombatGroup1 input prompt: 
+Game Info:
+	Time: 0:01
+
+Team Stalker-1 Info:
+	Team minimap position: [21, 32]
+	Controlled Team Units:
+		Unit: Stalker    Tag: 0x100900001    ScreenPos: [58, 61]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100600001    ScreenPos: [66, 53]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100880001    ScreenPos: [66, 61]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100480001    ScreenPos: [58, 45]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100780001    ScreenPos: [66, 45]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100800001    ScreenPos: [58, 53]    Health: 160(100 %)    Weapon Ready
+	Nearby Ally Units:
+		Unit: Nexus    Tag: 0x1010c0001    ScreenPos: [24, 50]    Health: 2000(100 %)    Energy: 50
+		Unit: Probe    Tag: 0x101340001    ScreenPos: [6, 46]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101300001    ScreenPos: [2, 48]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101380001    ScreenPos: [2, 63]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x1013c0001    ScreenPos: [9, 43]    Health: 40(100 %)
+
+Relevant Knowledge:
+	Protoss.Stalker
+		A dragoon-like Nerazim unit, able to blink (short-range teleport) and deliver ranged attacks against air and ground units.
+		Unit properties: ['ground', 'armored', 'mechanical']
+		Weapon info: Attack Range 6, target: ['ground', 'air'], anti: ['armored'], DPS(damage per second) 6, DPS-anti 9
+		unit abilities:
+			Blink: Available after Blink upgrade in Twilight Council. Stalkers instantly teleport over short distances, Commonly used to pursue the enemy when in an advantageous position or to stay away from the enemy when in a disadvantageous position, or for individual retreat.Range: 8, Cooldown: 7 seconds.
+	Protoss.Nexus
+		Produces probes and is the place that all minerals and gas are dropped off at to be processed. Also produces the mothership.
+		Unit properties: ['ground', 'armored', 'structure']
+	Protoss.Probe
+		The builder of the protoss race. Gathers gas and minerals.
+		Unit properties: ['ground', 'light', 'mechanical']
+		Weapon info: Attack Range 0.2, target: ['ground'], DPS(damage per second) 3
+
+Valid Actions:
+	Team Stalker-1 Valid Actions:
+		<Stop()>
+		<No_Operation()>
+		<Hold_Position()>
+		<Move_Minimap(minimap)>
+		<Move_Screen(screen)>
+		<Attack_Unit(tag)>
+		<Ability_Blink_Screen(screen)>
+		<Select_Unit_Blink_Screen(tag, screen)>
+
+Action Args: 
+	(1) tag: tag refers to a hexadecimal number, shape as 0x000000000.
+	(2) screen: screen refers to a screen coordinate, shape as [x, y], where x and y range from 0 to 128.
+	(3) minimap: minimap refers to a minimap coordinate, shape as [x, y], where x and y range from 0 to 64.
+For example, when you want to use an action like <Action_Name(tag, screen)>, you should output like <Action_Name(0x100580001, [37, 55])>; when you want to use an action like <Action_Name(screen)>, you should output like <Action_Name([66, 78])>. What's more, You need to see clearly whether an action is using screen coordinates or minimap coordinates, If an action name as XXXX_Screen, it uses screen coordinate; if an action name as XXXX_Minimap, it uses minimap coordinate.
+
+Tasks:
+	Team Stalker-1' task: Protect our nexus and probes from enemy airdrops. At Game time 0:00, 2 airdrops detected from minimap [24, 32] and [12, 24] to [16, 32]
+
+Give each team no more than 3 actions, among which activity release should usually before move and attack.
+Now, start generating your analysis and actions:
+2026-06-23 08:41:55.587 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:666 - [ID 1] Reach MAX_LLM_WAITING_TIME! CombatGroup1 Call no_op()
+2026-06-23 08:41:55.587 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:667 - [ID 1] Func Call: FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2026-06-23 08:41:55.626 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 29 -------------------------------------------------- ----------
+2026-06-23 08:41:55.639 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1405 - [ID 1] Agent CombatGroup1 Status = [2] is_waiting_response
+2026-06-23 08:41:55.640 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:41:55.640 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:41:55.640 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:41:55.640 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:1 num_pos:1
+2026-06-23 08:41:55.640 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:41:55.640 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:41:55.640 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop0 Main Status = False True True
+2026-06-23 08:41:55.640 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop0 Main Status = [1]0 (_is_waiting_query) [2]1 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:41:55.640 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = []
+2026-06-23 08:41:55.640 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 0
+2026-06-23 08:41:55.640 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:41:56.876 | SUCCESS  | llm_pysc2.lib.deepseek_client:query:145 - [ID 1] CombatGroup1 Get DeepSeek response!
+2026-06-23 08:41:56.876 | DEBUG    | llm_pysc2.lib.deepseek_client:query:146 - [ID 1] CombatGroup1 DeepSeek response: 
+Analysis: 
+  Time is 0:01, we have 6 Stalkers near our base. Our task is to protect Nexus and Probes from enemy airdrops detected heading to minimap [16,32]. Currently no enemies visible. To intercept, we should move our entire team to the predicted drop zone at minimap [16,32] as quickly as possible. Stalkers have range 6, so positioning near the drop point will allow us to engage the dropped units immediately.
+
+Actions:
+  Team Stalker-1:
+    <Move_Minimap([16, 32])>
+2026-06-23 08:41:56.876 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_query_multi:439 - [ID 1] CombatGroup1 multi-call 1/3 completed.
+2026-06-23 08:41:56.876 | SUCCESS  | llm_pysc2.lib.deepseek_client:query:120 - [ID 1] CombatGroup1 Start calling DeepSeek API!
+2026-06-23 08:41:56.876 | DEBUG    | llm_pysc2.lib.deepseek_client:query:121 - [ID 1] CombatGroup1 input prompt: 
+Game Info:
+	Time: 0:01
+
+Team Stalker-1 Info:
+	Team minimap position: [21, 32]
+	Controlled Team Units:
+		Unit: Stalker    Tag: 0x100900001    ScreenPos: [58, 61]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100600001    ScreenPos: [66, 53]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100880001    ScreenPos: [66, 61]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100480001    ScreenPos: [58, 45]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100780001    ScreenPos: [66, 45]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100800001    ScreenPos: [58, 53]    Health: 160(100 %)    Weapon Ready
+	Nearby Ally Units:
+		Unit: Nexus    Tag: 0x1010c0001    ScreenPos: [24, 50]    Health: 2000(100 %)    Energy: 50
+		Unit: Probe    Tag: 0x101340001    ScreenPos: [6, 46]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101300001    ScreenPos: [2, 48]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101380001    ScreenPos: [2, 63]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x1013c0001    ScreenPos: [9, 43]    Health: 40(100 %)
+
+Relevant Knowledge:
+	Protoss.Stalker
+		A dragoon-like Nerazim unit, able to blink (short-range teleport) and deliver ranged attacks against air and ground units.
+		Unit properties: ['ground', 'armored', 'mechanical']
+		Weapon info: Attack Range 6, target: ['ground', 'air'], anti: ['armored'], DPS(damage per second) 6, DPS-anti 9
+		unit abilities:
+			Blink: Available after Blink upgrade in Twilight Council. Stalkers instantly teleport over short distances, Commonly used to pursue the enemy when in an advantageous position or to stay away from the enemy when in a disadvantageous position, or for individual retreat.Range: 8, Cooldown: 7 seconds.
+	Protoss.Nexus
+		Produces probes and is the place that all minerals and gas are dropped off at to be processed. Also produces the mothership.
+		Unit properties: ['ground', 'armored', 'structure']
+	Protoss.Probe
+		The builder of the protoss race. Gathers gas and minerals.
+		Unit properties: ['ground', 'light', 'mechanical']
+		Weapon info: Attack Range 0.2, target: ['ground'], DPS(damage per second) 3
+
+Valid Actions:
+	Team Stalker-1 Valid Actions:
+		<Stop()>
+		<No_Operation()>
+		<Hold_Position()>
+		<Move_Minimap(minimap)>
+		<Move_Screen(screen)>
+		<Attack_Unit(tag)>
+		<Ability_Blink_Screen(screen)>
+		<Select_Unit_Blink_Screen(tag, screen)>
+
+Action Args: 
+	(1) tag: tag refers to a hexadecimal number, shape as 0x000000000.
+	(2) screen: screen refers to a screen coordinate, shape as [x, y], where x and y range from 0 to 128.
+	(3) minimap: minimap refers to a minimap coordinate, shape as [x, y], where x and y range from 0 to 64.
+For example, when you want to use an action like <Action_Name(tag, screen)>, you should output like <Action_Name(0x100580001, [37, 55])>; when you want to use an action like <Action_Name(screen)>, you should output like <Action_Name([66, 78])>. What's more, You need to see clearly whether an action is using screen coordinates or minimap coordinates, If an action name as XXXX_Screen, it uses screen coordinate; if an action name as XXXX_Minimap, it uses minimap coordinate.
+
+Tasks:
+	Team Stalker-1' task: Protect our nexus and probes from enemy airdrops. At Game time 0:00, 2 airdrops detected from minimap [24, 32] and [12, 24] to [16, 32]
+
+Give each team no more than 3 actions, among which activity release should usually before move and attack.
+Now, start generating your analysis and actions:
+2026-06-23 08:42:10.665 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:666 - [ID 1] Reach MAX_LLM_WAITING_TIME! CombatGroup1 Call no_op()
+2026-06-23 08:42:10.665 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:667 - [ID 1] Func Call: FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2026-06-23 08:42:10.683 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 30 -------------------------------------------------- ----------
+2026-06-23 08:42:10.695 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1405 - [ID 1] Agent CombatGroup1 Status = [2] is_waiting_response
+2026-06-23 08:42:10.695 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:10.695 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:10.695 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:10.695 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:1 num_pos:1
+2026-06-23 08:42:10.695 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:10.695 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:10.695 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop0 Main Status = False True True
+2026-06-23 08:42:10.695 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop0 Main Status = [1]0 (_is_waiting_query) [2]1 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:10.697 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = []
+2026-06-23 08:42:10.697 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 0
+2026-06-23 08:42:10.697 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:14.425 | SUCCESS  | llm_pysc2.lib.deepseek_client:query:145 - [ID 1] CombatGroup1 Get DeepSeek response!
+2026-06-23 08:42:14.425 | DEBUG    | llm_pysc2.lib.deepseek_client:query:146 - [ID 1] CombatGroup1 DeepSeek response: 
+Analysis:
+At game time 0:01, two enemy airdrops are inbound to minimap [16,32] from [24,32] and [12,24]. Our Stalker team is positioned at minimap [21,32], very close to the predicted landing zone. To fulfill our task of protecting the Nexus and probes, we must intercept these drops immediately. Moving all six Stalkers to the landing point will allow us to concentrate firepower and eliminate the enemy as they arrive, before they can threaten our base. No enemy units are visible yet, so only movement is needed now.
+
+Actions:
+  Team Stalker-1:
+    <Move_Minimap([16,32])>
+2026-06-23 08:42:14.425 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_query_multi:439 - [ID 1] CombatGroup1 multi-call 2/3 completed.
+2026-06-23 08:42:14.425 | SUCCESS  | llm_pysc2.lib.deepseek_client:query:120 - [ID 1] CombatGroup1 Start calling DeepSeek API!
+2026-06-23 08:42:14.426 | DEBUG    | llm_pysc2.lib.deepseek_client:query:121 - [ID 1] CombatGroup1 input prompt: 
+Game Info:
+	Time: 0:01
+
+Team Stalker-1 Info:
+	Team minimap position: [21, 32]
+	Controlled Team Units:
+		Unit: Stalker    Tag: 0x100900001    ScreenPos: [58, 61]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100600001    ScreenPos: [66, 53]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100880001    ScreenPos: [66, 61]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100480001    ScreenPos: [58, 45]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100780001    ScreenPos: [66, 45]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100800001    ScreenPos: [58, 53]    Health: 160(100 %)    Weapon Ready
+	Nearby Ally Units:
+		Unit: Nexus    Tag: 0x1010c0001    ScreenPos: [24, 50]    Health: 2000(100 %)    Energy: 50
+		Unit: Probe    Tag: 0x101340001    ScreenPos: [6, 46]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101300001    ScreenPos: [2, 48]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101380001    ScreenPos: [2, 63]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x1013c0001    ScreenPos: [9, 43]    Health: 40(100 %)
+
+Relevant Knowledge:
+	Protoss.Stalker
+		A dragoon-like Nerazim unit, able to blink (short-range teleport) and deliver ranged attacks against air and ground units.
+		Unit properties: ['ground', 'armored', 'mechanical']
+		Weapon info: Attack Range 6, target: ['ground', 'air'], anti: ['armored'], DPS(damage per second) 6, DPS-anti 9
+		unit abilities:
+			Blink: Available after Blink upgrade in Twilight Council. Stalkers instantly teleport over short distances, Commonly used to pursue the enemy when in an advantageous position or to stay away from the enemy when in a disadvantageous position, or for individual retreat.Range: 8, Cooldown: 7 seconds.
+	Protoss.Nexus
+		Produces probes and is the place that all minerals and gas are dropped off at to be processed. Also produces the mothership.
+		Unit properties: ['ground', 'armored', 'structure']
+	Protoss.Probe
+		The builder of the protoss race. Gathers gas and minerals.
+		Unit properties: ['ground', 'light', 'mechanical']
+		Weapon info: Attack Range 0.2, target: ['ground'], DPS(damage per second) 3
+
+Valid Actions:
+	Team Stalker-1 Valid Actions:
+		<Stop()>
+		<No_Operation()>
+		<Hold_Position()>
+		<Move_Minimap(minimap)>
+		<Move_Screen(screen)>
+		<Attack_Unit(tag)>
+		<Ability_Blink_Screen(screen)>
+		<Select_Unit_Blink_Screen(tag, screen)>
+
+Action Args: 
+	(1) tag: tag refers to a hexadecimal number, shape as 0x000000000.
+	(2) screen: screen refers to a screen coordinate, shape as [x, y], where x and y range from 0 to 128.
+	(3) minimap: minimap refers to a minimap coordinate, shape as [x, y], where x and y range from 0 to 64.
+For example, when you want to use an action like <Action_Name(tag, screen)>, you should output like <Action_Name(0x100580001, [37, 55])>; when you want to use an action like <Action_Name(screen)>, you should output like <Action_Name([66, 78])>. What's more, You need to see clearly whether an action is using screen coordinates or minimap coordinates, If an action name as XXXX_Screen, it uses screen coordinate; if an action name as XXXX_Minimap, it uses minimap coordinate.
+
+Tasks:
+	Team Stalker-1' task: Protect our nexus and probes from enemy airdrops. At Game time 0:00, 2 airdrops detected from minimap [24, 32] and [12, 24] to [16, 32]
+
+Give each team no more than 3 actions, among which activity release should usually before move and attack.
+Now, start generating your analysis and actions:
+2026-06-23 08:42:25.702 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:666 - [ID 1] Reach MAX_LLM_WAITING_TIME! CombatGroup1 Call no_op()
+2026-06-23 08:42:25.702 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:667 - [ID 1] Func Call: FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2026-06-23 08:42:25.712 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 31 -------------------------------------------------- ----------
+2026-06-23 08:42:25.718 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1405 - [ID 1] Agent CombatGroup1 Status = [2] is_waiting_response
+2026-06-23 08:42:25.719 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:25.719 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:25.719 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:25.719 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:1 num_pos:1
+2026-06-23 08:42:25.719 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:25.719 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.719 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop0 Main Status = False True True
+2026-06-23 08:42:25.719 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop0 Main Status = [1]0 (_is_waiting_query) [2]1 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:25.719 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = []
+2026-06-23 08:42:25.719 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 0
+2026-06-23 08:42:25.719 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.733 | SUCCESS  | llm_pysc2.lib.deepseek_client:query:145 - [ID 1] CombatGroup1 Get DeepSeek response!
+2026-06-23 08:42:25.733 | DEBUG    | llm_pysc2.lib.deepseek_client:query:146 - [ID 1] CombatGroup1 DeepSeek response: 
+**Analysis:**  
+当前游戏时间0:01，任务要求保护枢纽和探机，拦截来自迷你地图[24,32]和[12,24]方向飞往[16,32]的敌方空投。我方6个追猎者目前位于[21,32]附近，距离预测空投落点[16,32]很近，应立刻全体移动至该区域准备迎击。由于敌人尚未出现，先进行移动占据有利位置，后续再根据敌人落地情况集中开火。目前无Blink升级，仅使用移动和攻击。
+
+**Actions:**  
+Team Stalker-1:  
+  <Move_Minimap([16, 32])>  
+  <No_Operation()>  
+  <No_Operation()>
+2026-06-23 08:42:25.733 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_query_multi:439 - [ID 1] CombatGroup1 multi-call 3/3 completed.
+2026-06-23 08:42:25.734 | INFO     | llm_pysc2.agents.llm_pysc2_agent:_query_multi:486 - [ID 1] CombatGroup1 sc: entropy=0.0, consistency=1.0, chosen=Move_Minimap, fallback=False
+2026-06-23 08:42:25.735 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:321 - [ID 1] LLMAgent CombatGroup1: Get response 
+2026-06-23 08:42:25.735 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:query:323 - [ID 1] LLMAgent CombatGroup1: Listen to {}
+2026-06-23 08:42:25.735 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:query:324 - [ID 1] LLMAgent CombatGroup1: Send info to {}
+2026-06-23 08:42:25.749 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:514 - [ID 1] 7.3.1 Agent CombatGroup1: executing status
+2026-06-23 08:42:25.749 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:521 - [ID 1] Agent CombatGroup1, status: 7.3.1.1
+2026-06-23 08:42:25.749 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:545 - [ID 1] Agent CombatGroup1 status: 7.3.2
+2026-06-23 08:42:25.749 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:43 - [ID 1] get_camera_func_smart(): team['obs'] mode
+2026-06-23 08:42:25.749 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:67 - [ID 1] CombatGroup1 Stalker-1: use obs position (32.5625, 46.98660714285714) for unit Protoss.Stalker 0x100900001
+2026-06-23 08:42:25.749 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:562 - [ID 1] 7.3.2.0 Agent CombatGroup1: Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[32.5625, 46.98660714285714]])
+2026-06-23 08:42:25.770 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 32 -------------------------------------------------- ----------
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1408 - [ID 1] Agent CombatGroup1 Status = [3] is_executing_actions
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 1 0
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = [{'name': 'Move_Minimap', 'arg': ['minimap'], 'func': [(332, Function(id=<_Functions.Move_minimap: 332>, name='Move_minimap', ability_id=3794, general_id=0, function_type=<function cmd_minimap at 0x000002517FCFDAB0>, args=[ArgumentType(id=3, name='queued', sizes=(2,), fn=<function ArgumentType.enum.<locals>.factory.<locals>.<lambda> at 0x000002517FCFFB50>, values=<enum 'Queued'>, count=None), ArgumentType(id=1, name='minimap', sizes=(0, 0), fn=<function ArgumentType.point.<locals>.factory.<locals>.<lambda> at 0x000002517FCFFA30>, values=None, count=None)], avail_fn=None, raw=False), ('now', [16.0, 32.0]))]}]
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:1 num_pos:1
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop0 Main Status = False False True
+2026-06-23 08:42:25.775 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop0 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = []
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 0
+2026-06-23 08:42:25.775 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.780 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:514 - [ID 1] 7.3.1 Agent CombatGroup1: executing status
+2026-06-23 08:42:25.780 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:545 - [ID 1] Agent CombatGroup1 status: 7.3.2
+2026-06-23 08:42:25.781 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:43 - [ID 1] get_camera_func_smart(): team['obs'] mode
+2026-06-23 08:42:25.781 | INFO     | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:67 - [ID 1] CombatGroup1 Stalker-1: use obs position (32.5625, 46.98660714285714) for unit Protoss.Stalker 0x100900001
+2026-06-23 08:42:25.781 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:562 - [ID 1] 7.3.2.0 Agent CombatGroup1: Func Call: FunctionCall(function=<_Functions.llm_pysc2_move_camera: 573>, arguments=[[32.5625, 46.98660714285714]])
+2026-06-23 08:42:25.803 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 33 -------------------------------------------------- ----------
+2026-06-23 08:42:25.820 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1408 - [ID 1] Agent CombatGroup1 Status = [3] is_executing_actions
+2026-06-23 08:42:25.820 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:25.820 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 1 0
+2026-06-23 08:42:25.821 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = [{'name': 'Move_Minimap', 'arg': ['minimap'], 'func': [(332, Function(id=<_Functions.Move_minimap: 332>, name='Move_minimap', ability_id=3794, general_id=0, function_type=<function cmd_minimap at 0x000002517FCFDAB0>, args=[ArgumentType(id=3, name='queued', sizes=(2,), fn=<function ArgumentType.enum.<locals>.factory.<locals>.<lambda> at 0x000002517FCFFB50>, values=<enum 'Queued'>, count=None), ArgumentType(id=1, name='minimap', sizes=(0, 0), fn=<function ArgumentType.point.<locals>.factory.<locals>.<lambda> at 0x000002517FCFFA30>, values=None, count=None)], avail_fn=None, raw=False), ('now', [16.0, 32.0]))]}]
+2026-06-23 08:42:25.821 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:1 num_pos:1
+2026-06-23 08:42:25.821 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:25.822 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.822 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop0 Main Status = False False True
+2026-06-23 08:42:25.822 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop0 Main Status = [1]0 (_is_waiting_query) [2]0 (_is_waiting_response) [3]1 (_is_executing_actions) 
+2026-06-23 08:42:25.822 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = []
+2026-06-23 08:42:25.822 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 0
+2026-06-23 08:42:25.822 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.826 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:514 - [ID 1] 7.3.1 Agent CombatGroup1: executing status
+2026-06-23 08:42:25.826 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:545 - [ID 1] Agent CombatGroup1 status: 7.3.2
+2026-06-23 08:42:25.829 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:43 - [ID 1] get_camera_func_smart(): team['obs'] mode
+2026-06-23 08:42:25.829 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:63 - [ID 1] CombatGroup1 Stalker-1: camera in correct position
+2026-06-23 08:42:25.829 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:648 - [ID 1] LLMAgent CombatGroup1, get_func(): func avaliable, func 332/Move_minimap (3/queued [2]; 1/minimap [0, 0]) pysc2_args ['now', (16.0, 32.0)]
+2026-06-23 08:42:25.830 | INFO     | llm_pysc2.agents.llm_pysc2_agent:get_func:680 - [ID 1] LLMAgent CombatGroup1 get_func(): Get Func 332, FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [16.0, 32.0]])
+2026-06-23 08:42:25.830 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:636 - [ID 1] 7.3.4 Agent CombatGroup1: agent.get_func(obs): get FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [16.0, 32.0]])
+2026-06-23 08:42:25.831 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:657 - [ID 1] 7.4 Agent CombatGroup1 Func Call: FunctionCall(function=<_Functions.Move_minimap: 332>, arguments=[[<Queued.now: 0>], [16.0, 32.0]])
+2026-06-23 08:42:25.856 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 34 -------------------------------------------------- ----------
+2026-06-23 08:42:25.869 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:25.870 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:25.870 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:25.870 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:25.870 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:1 num_pos:1
+2026-06-23 08:42:25.870 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:25.870 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.871 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop0 Main Status = False False True
+2026-06-23 08:42:25.871 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop0 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:25.871 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:25.871 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:25.871 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.874 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:501 - [ID 1] 7.3.0 Agent CombatGroup1: finished executing!
+2026-06-23 08:42:25.889 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:647 - [ID 1] 7.3.5 Agent CombatGroup1: One loop finished, release self.main_loop_lock
+2026-06-23 08:42:25.907 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:263 - [ID 1] ========== ================================================== Loop 1 ================================================== ==========
+2026-06-23 08:42:25.908 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 35 -------------------------------------------------- ----------
+2026-06-23 08:42:25.923 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:25.923 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:25.923 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:25.923 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:25.923 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:25.923 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:25.924 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.924 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:25.924 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:25.924 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:25.924 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:25.924 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.924 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:25.937 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 36 -------------------------------------------------- ----------
+2026-06-23 08:42:25.953 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:25.953 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:25.953 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:25.953 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:25.953 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:25.953 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:25.953 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.954 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:25.954 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:25.954 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:25.954 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:25.954 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.954 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:25.967 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 37 -------------------------------------------------- ----------
+2026-06-23 08:42:25.977 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:25.979 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:25.979 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:25.979 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:25.979 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:25.979 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:25.979 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.979 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:25.979 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:25.979 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:25.979 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:25.979 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:25.979 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:25.995 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 38 -------------------------------------------------- ----------
+2026-06-23 08:42:26.004 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.004 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.004 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.004 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.004 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.004 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.005 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.005 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.005 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.005 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.005 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.005 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.005 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.032 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 39 -------------------------------------------------- ----------
+2026-06-23 08:42:26.040 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.040 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.040 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.040 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.041 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.041 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.041 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.041 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.041 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.041 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.041 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.041 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.041 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.056 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 40 -------------------------------------------------- ----------
+2026-06-23 08:42:26.067 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.067 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.069 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.069 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.069 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.069 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.069 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.069 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.069 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.069 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.070 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.070 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.070 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.087 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 41 -------------------------------------------------- ----------
+2026-06-23 08:42:26.095 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.097 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.097 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.097 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.097 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.097 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.097 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.097 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.097 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.097 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.097 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.097 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.098 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.110 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 42 -------------------------------------------------- ----------
+2026-06-23 08:42:26.122 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.122 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.122 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.122 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.123 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.123 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.123 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.123 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.123 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.123 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.123 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.123 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.123 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.144 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 43 -------------------------------------------------- ----------
+2026-06-23 08:42:26.157 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.158 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.158 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.158 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.158 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.158 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.159 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.159 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.159 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.159 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.159 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.159 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.160 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.176 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 44 -------------------------------------------------- ----------
+2026-06-23 08:42:26.184 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.185 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.185 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.185 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.185 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.185 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.185 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.185 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.185 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.185 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.185 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.185 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.185 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.226 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 45 -------------------------------------------------- ----------
+2026-06-23 08:42:26.235 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.235 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.236 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.236 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.236 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.236 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.236 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.236 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.237 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:01 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.237 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.237 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.237 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.237 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.268 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 46 -------------------------------------------------- ----------
+2026-06-23 08:42:26.278 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.279 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.279 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.279 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.279 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.279 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.279 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.279 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.279 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:02 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.280 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.280 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.280 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.280 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.301 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 47 -------------------------------------------------- ----------
+2026-06-23 08:42:26.312 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.313 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.313 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.313 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.313 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.313 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.314 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.314 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.314 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:02 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.315 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.315 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.315 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.315 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.336 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 48 -------------------------------------------------- ----------
+2026-06-23 08:42:26.351 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.351 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.352 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.352 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.352 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.352 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.352 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.353 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.353 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:02 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.353 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.354 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.354 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.354 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.371 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 49 -------------------------------------------------- ----------
+2026-06-23 08:42:26.382 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.383 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.383 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.383 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.383 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.384 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.384 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.384 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.384 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:02 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.385 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.385 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.385 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.385 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:322 - [ID 1] Reach MAX_LLM_DECISION_FREQUENCY! return no_op()
+2026-06-23 08:42:26.397 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 50 -------------------------------------------------- ----------
+2026-06-23 08:42:26.405 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1402 - [ID 1] Agent CombatGroup1 Status = [1] is_waiting_query
+2026-06-23 08:42:26.405 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:26.405 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:26.406 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:26.406 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:0 num_pos:0
+2026-06-23 08:42:26.406 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.406 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.406 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = True False True
+2026-06-23 08:42:26.406 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:02 Loop1 Main Status = [1]1 (_is_waiting_query) [2]0 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:26.406 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = [4304404481, 4301258753, 4303355905, 4302831617, 4299685889, 4303880193]
+2026-06-23 08:42:26.406 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 6
+2026-06-23 08:42:26.406 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:26.406 | SUCCESS  | llm_pysc2.lib.llm_communicate:communication_info_transmission:72 - [ID 1] 7.0 All LLMAgent skip communication stage
+2026-06-23 08:42:26.406 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:343 - [ID 1] 7.0 Main Loop Lock! Ignore outer-loop actions. 
+2026-06-23 08:42:26.417 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:371 - [ID 1] 7.1 Agent CombatGroup1: query status
+2026-06-23 08:42:26.417 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_is_all_my_teams_ready_to_query:155 - [ID 1] LLMAgent CombatGroup1, in _is_all_my_teams_ready_to_query(): team Stalker-1 not ready
+2026-06-23 08:42:26.417 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_is_all_my_teams_ready_to_query:157 - [ID 1] LLMAgent CombatGroup1, in _is_all_my_teams_ready_to_query(): team['unit_tags'] = [4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905], self.team_unit_tag_list = []
+2026-06-23 08:42:26.417 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:395 - [ID 1] Agent CombatGroup1 status: 7.1.3
+2026-06-23 08:42:26.417 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_get_unobsed_team_and_unit_tag:164 - [ID 1] LLMAgent CombatGroup1, in _get_unobsed_team_and_unit_tag(): self.team_unit_tag_list = []
+2026-06-23 08:42:26.417 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_get_unobsed_team_and_unit_tag:167 - [ID 1] LLMAgent CombatGroup1, in _get_unobsed_team_and_unit_tag(): team['name'] = Stalker-1, team['unit_tags'] = [4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905]
+2026-06-23 08:42:26.418 | DEBUG    | llm_pysc2.agents.main_agent_funcs:get_camera_func_smart:74 - [ID 1] get_camera_func_smart(): standard mode
+2026-06-23 08:42:26.418 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:476 - [ID 1] 7.1.6 Agent CombatGroup1: collect obs for team Stalker-1
+2026-06-23 08:42:26.433 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:371 - [ID 1] 7.1 Agent CombatGroup1: query status
+2026-06-23 08:42:26.434 | INFO     | llm_pysc2.agents.llm_pysc2_agent_main:step:381 - [ID 1] 7.1.2 Agent CombatGroup1: Obs prepared, try calling LLM api
+2026-06-23 08:42:26.434 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:382 - [ID 1] len(agent.team_unit_obs_list) = 1
+2026-06-23 08:42:26.434 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:383 - [ID 1] len(agent.team_unit_tag_list) = 1
+2026-06-23 08:42:26.434 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent_main:step:384 - [ID 1] len(agent.team_unit_team_list) = 1
+2026-06-23 08:42:26.435 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent:query:303 - [ID 1] LLMAgent CombatGroup1: Start waiting for response
+2026-06-23 08:42:26.435 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:391 - [ID 1] 7.2 All Agent waiting for response
+2026-06-23 08:42:26.442 | SUCCESS  | llm_pysc2.lib.deepseek_client:query:120 - [ID 1] CombatGroup1 Start calling DeepSeek API!
+2026-06-23 08:42:26.443 | DEBUG    | llm_pysc2.lib.deepseek_client:query:121 - [ID 1] CombatGroup1 input prompt: 
+Game Info:
+	Time: 0:02
+
+Team Stalker-1 Info:
+	Team minimap position: [20, 32]
+	Controlled Team Units:
+		Unit: Stalker    Tag: 0x100880001    ScreenPos: [55, 57]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100900001    ScreenPos: [47, 58]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100780001    ScreenPos: [55, 45]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100600001    ScreenPos: [55, 51]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100800001    ScreenPos: [47, 51]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100480001    ScreenPos: [47, 45]    Health: 160(100 %)    Weapon Ready
+	Nearby Ally Units:
+		Unit: Nexus    Tag: 0x1010c0001    ScreenPos: [29, 50]    Health: 2000(100 %)    Energy: 51
+		Unit: Probe    Tag: 0x101300001    ScreenPos: [1, 57]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101180001    ScreenPos: [1, 49]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101380001    ScreenPos: [1, 62]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101200001    ScreenPos: [1, 51]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101240001    ScreenPos: [1, 55]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x1012c0001    ScreenPos: [1, 55]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101100001    ScreenPos: [5, 69]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101140001    ScreenPos: [1, 59]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101340001    ScreenPos: [1, 57]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x1011c0001    ScreenPos: [1, 71]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101280001    ScreenPos: [1, 63]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x1013c0001    ScreenPos: [2, 56]    Health: 40(100 %)
+	Nearby Enemy Units:
+		Unit: OverlordTransport    Tag: 0x101840001    ScreenPos: [125, 52]    Distance: 14    Health: 200(100 %)
+
+Relevant Knowledge:
+	Protoss.Stalker
+		A dragoon-like Nerazim unit, able to blink (short-range teleport) and deliver ranged attacks against air and ground units.
+		Unit properties: ['ground', 'armored', 'mechanical']
+		Weapon info: Attack Range 6, target: ['ground', 'air'], anti: ['armored'], DPS(damage per second) 6, DPS-anti 9
+		unit abilities:
+			Blink: Available after Blink upgrade in Twilight Council. Stalkers instantly teleport over short distances, Commonly used to pursue the enemy when in an advantageous position or to stay away from the enemy when in a disadvantageous position, or for individual retreat.Range: 8, Cooldown: 7 seconds.
+	Protoss.Nexus
+		Produces probes and is the place that all minerals and gas are dropped off at to be processed. Also produces the mothership.
+		Unit properties: ['ground', 'armored', 'structure']
+	Protoss.Probe
+		The builder of the protoss race. Gathers gas and minerals.
+		Unit properties: ['ground', 'light', 'mechanical']
+		Weapon info: Attack Range 0.2, target: ['ground'], DPS(damage per second) 3
+	Zerg.OverlordTransport
+		Zerg Air Transport Unit, used for airdrops and harass enemy base
+		Unit properties: ['air', 'armored', 'biological']
+
+Valid Actions:
+	Team Stalker-1 Valid Actions:
+		<Stop()>
+		<No_Operation()>
+		<Hold_Position()>
+		<Move_Minimap(minimap)>
+		<Move_Screen(screen)>
+		<Attack_Unit(tag)>
+		<Ability_Blink_Screen(screen)>
+		<Select_Unit_Blink_Screen(tag, screen)>
+
+Action Args: 
+	(1) tag: tag refers to a hexadecimal number, shape as 0x000000000.
+	(2) screen: screen refers to a screen coordinate, shape as [x, y], where x and y range from 0 to 128.
+	(3) minimap: minimap refers to a minimap coordinate, shape as [x, y], where x and y range from 0 to 64.
+For example, when you want to use an action like <Action_Name(tag, screen)>, you should output like <Action_Name(0x100580001, [37, 55])>; when you want to use an action like <Action_Name(screen)>, you should output like <Action_Name([66, 78])>. What's more, You need to see clearly whether an action is using screen coordinates or minimap coordinates, If an action name as XXXX_Screen, it uses screen coordinate; if an action name as XXXX_Minimap, it uses minimap coordinate.
+
+Last Step Actions:
+	Team Stalker-1:
+		<Move_Minimap([16, 32])>
+You need to confirm whether the previous action finished executing, and based on this, determine whether to continue the old strategy or immediately take other actions.
+
+Tasks:
+	Team Stalker-1' task: Protect our nexus and probes from enemy airdrops. At Game time 0:00, 2 airdrops detected from minimap [24, 32] and [12, 24] to [16, 32]
+
+Give each team no more than 3 actions, among which activity release should usually before move and attack.
+Now, start generating your analysis and actions:
+2026-06-23 08:42:41.187 | SUCCESS  | llm_pysc2.lib.deepseek_client:query:145 - [ID 1] CombatGroup1 Get DeepSeek response!
+2026-06-23 08:42:41.187 | DEBUG    | llm_pysc2.lib.deepseek_client:query:146 - [ID 1] CombatGroup1 DeepSeek response: 
+**Analysis:**
+Time 0:02, our Stalker team just moved toward [16,32] last step. Now we see an enemy OverlordTransport at screen [125,52] approaching our base. Given the task to protect Nexus and probes from airdrops detected earlier at [24,32] and [12,24] heading to [16,32], this OverlordTransport is likely the carrying unit. We must intercept and destroy it before it drops units near our Nexus. All 6 Stalkers are healthy and in weapon-ready state. They should immediately move and engage the OverlordTransport. Focus fire will bring it down quickly. No need to split or retreat. Blink is not upgraded, so we rely on standard attack.
+
+**Actions:**
+Team Stalker-1:
+  <Attack_Unit(0x101840001)>
+2026-06-23 08:42:41.187 | DEBUG    | llm_pysc2.agents.llm_pysc2_agent:_query_multi:439 - [ID 1] CombatGroup1 multi-call 1/3 completed.
+2026-06-23 08:42:41.187 | SUCCESS  | llm_pysc2.lib.deepseek_client:query:120 - [ID 1] CombatGroup1 Start calling DeepSeek API!
+2026-06-23 08:42:41.187 | DEBUG    | llm_pysc2.lib.deepseek_client:query:121 - [ID 1] CombatGroup1 input prompt: 
+Game Info:
+	Time: 0:02
+
+Team Stalker-1 Info:
+	Team minimap position: [20, 32]
+	Controlled Team Units:
+		Unit: Stalker    Tag: 0x100880001    ScreenPos: [55, 57]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100900001    ScreenPos: [47, 58]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100780001    ScreenPos: [55, 45]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100600001    ScreenPos: [55, 51]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100800001    ScreenPos: [47, 51]    Health: 160(100 %)    Weapon Ready
+		Unit: Stalker    Tag: 0x100480001    ScreenPos: [47, 45]    Health: 160(100 %)    Weapon Ready
+	Nearby Ally Units:
+		Unit: Nexus    Tag: 0x1010c0001    ScreenPos: [29, 50]    Health: 2000(100 %)    Energy: 51
+		Unit: Probe    Tag: 0x101300001    ScreenPos: [1, 57]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101180001    ScreenPos: [1, 49]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101380001    ScreenPos: [1, 62]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101200001    ScreenPos: [1, 51]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101240001    ScreenPos: [1, 55]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x1012c0001    ScreenPos: [1, 55]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101100001    ScreenPos: [5, 69]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101140001    ScreenPos: [1, 59]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101340001    ScreenPos: [1, 57]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x1011c0001    ScreenPos: [1, 71]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x101280001    ScreenPos: [1, 63]    Health: 40(100 %)
+		Unit: Probe    Tag: 0x1013c0001    ScreenPos: [2, 56]    Health: 40(100 %)
+	Nearby Enemy Units:
+		Unit: OverlordTransport    Tag: 0x101840001    ScreenPos: [125, 52]    Distance: 14    Health: 200(100 %)
+
+Relevant Knowledge:
+	Protoss.Stalker
+		A dragoon-like Nerazim unit, able to blink (short-range teleport) and deliver ranged attacks against air and ground units.
+		Unit properties: ['ground', 'armored', 'mechanical']
+		Weapon info: Attack Range 6, target: ['ground', 'air'], anti: ['armored'], DPS(damage per second) 6, DPS-anti 9
+		unit abilities:
+			Blink: Available after Blink upgrade in Twilight Council. Stalkers instantly teleport over short distances, Commonly used to pursue the enemy when in an advantageous position or to stay away from the enemy when in a disadvantageous position, or for individual retreat.Range: 8, Cooldown: 7 seconds.
+	Protoss.Nexus
+		Produces probes and is the place that all minerals and gas are dropped off at to be processed. Also produces the mothership.
+		Unit properties: ['ground', 'armored', 'structure']
+	Protoss.Probe
+		The builder of the protoss race. Gathers gas and minerals.
+		Unit properties: ['ground', 'light', 'mechanical']
+		Weapon info: Attack Range 0.2, target: ['ground'], DPS(damage per second) 3
+	Zerg.OverlordTransport
+		Zerg Air Transport Unit, used for airdrops and harass enemy base
+		Unit properties: ['air', 'armored', 'biological']
+
+Valid Actions:
+	Team Stalker-1 Valid Actions:
+		<Stop()>
+		<No_Operation()>
+		<Hold_Position()>
+		<Move_Minimap(minimap)>
+		<Move_Screen(screen)>
+		<Attack_Unit(tag)>
+		<Ability_Blink_Screen(screen)>
+		<Select_Unit_Blink_Screen(tag, screen)>
+
+Action Args: 
+	(1) tag: tag refers to a hexadecimal number, shape as 0x000000000.
+	(2) screen: screen refers to a screen coordinate, shape as [x, y], where x and y range from 0 to 128.
+	(3) minimap: minimap refers to a minimap coordinate, shape as [x, y], where x and y range from 0 to 64.
+For example, when you want to use an action like <Action_Name(tag, screen)>, you should output like <Action_Name(0x100580001, [37, 55])>; when you want to use an action like <Action_Name(screen)>, you should output like <Action_Name([66, 78])>. What's more, You need to see clearly whether an action is using screen coordinates or minimap coordinates, If an action name as XXXX_Screen, it uses screen coordinate; if an action name as XXXX_Minimap, it uses minimap coordinate.
+
+Last Step Actions:
+	Team Stalker-1:
+		<Move_Minimap([16, 32])>
+You need to confirm whether the previous action finished executing, and based on this, determine whether to continue the old strategy or immediately take other actions.
+
+Tasks:
+	Team Stalker-1' task: Protect our nexus and probes from enemy airdrops. At Game time 0:00, 2 airdrops detected from minimap [24, 32] and [12, 24] to [16, 32]
+
+Give each team no more than 3 actions, among which activity release should usually before move and attack.
+Now, start generating your analysis and actions:
+2026-06-23 08:42:41.420 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:666 - [ID 1] Reach MAX_LLM_WAITING_TIME! CombatGroup1 Call no_op()
+2026-06-23 08:42:41.420 | WARNING  | llm_pysc2.agents.llm_pysc2_agent_main:step:667 - [ID 1] Func Call: FunctionCall(function=<_Functions.no_op: 0>, arguments=[])
+2026-06-23 08:42:41.432 | SUCCESS  | llm_pysc2.agents.llm_pysc2_agent_main:step:264 - [ID 1] ---------- -------------------------------------------------- Step 51 -------------------------------------------------- ----------
+2026-06-23 08:42:41.436 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1405 - [ID 1] Agent CombatGroup1 Status = [2] is_waiting_response
+2026-06-23 08:42:41.436 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1409 - [ID 1]       num Units = 6 6
+2026-06-23 08:42:41.437 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1411 - [ID 1]       num Actions = 0 0 0
+2026-06-23 08:42:41.437 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1413 - [ID 1]       Actions = []
+2026-06-23 08:42:41.437 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1416 - [ID 1]       Team = team_name:Stalker-1 unit_type:[<Protoss.Stalker: 74>] game_group:4 select_type:group num_obs:1 num_pos:1
+2026-06-23 08:42:41.437 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1419 - [ID 1]              unit_tags:[4304404481, 4301258753, 4303880193, 4299685889, 4302831617, 4303355905] unit_tags_selected:[4303880193, 4304404481, 4302831617, 4301258753, 4303355905, 4299685889]
+2026-06-23 08:42:41.437 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1421 - [ID 1] --------------------------------------------------
+2026-06-23 08:42:41.437 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1422 - [ID 1] Loop1 Main Status = False True True
+2026-06-23 08:42:41.437 | INFO     | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1428 - [ID 1] GameTime 0:02 Loop1 Main Status = [1]0 (_is_waiting_query) [2]1 (_is_waiting_response) [3]0 (_is_executing_actions) 
+2026-06-23 08:42:41.437 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1433 - [ID 1]     self.unit_selected_tag_list  = []
+2026-06-23 08:42:41.437 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1434 - [ID 1] len(self.unit_selected_tag_list) = 0
+2026-06-23 08:42:41.437 | DEBUG    | llm_pysc2.agents.main_agent_funcs:main_agent_func_critical_data_log:1435 - [ID 1] --------------------------------------------------
